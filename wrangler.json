@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "vgchampions-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0003f912-82f5-4ea4-8341-a50c199a654f",
+			"database_name": "vgchampions-d1-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
