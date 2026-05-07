@@ -1,0 +1,1784 @@
+[
+  {
+    "game": "VGC",
+    "name": "Northern Ontario VGC Tour - May 6th",
+    "date": "2026-05-06T23:00:00.000Z",
+    "format": "M-A",
+    "id": "69f7e0d34f71d664893ebeda",
+    "players": 11,
+    "organizerId": 713
+  },
+  {
+    "game": "VGC",
+    "name": "Torneo #4 Ranking PokéChampionsDestiny",
+    "date": "2026-05-06T14:00:00.000Z",
+    "format": "M-A",
+    "id": "69f3950ce23aab068aad607c",
+    "players": 28,
+    "organizerId": 1075
+  },
+  {
+    "game": "VGC",
+    "name": "Mid-Week Smoke #2",
+    "date": "2026-05-06T11:00:00.000Z",
+    "format": "M-A",
+    "id": "69f5f9514f71d664893ea2f1",
+    "players": 22,
+    "organizerId": 2576
+  },
+  {
+    "game": "VGC",
+    "name": "HeroicTitan’s VGC Battle Arena",
+    "date": "2026-05-06T01:00:00.000Z",
+    "format": "M-A",
+    "id": "69dfc63948d465883f7140c4",
+    "players": 38,
+    "organizerId": 2397
+  },
+  {
+    "game": "VGC",
+    "name": "The Drywalls Series #3 - Champions!",
+    "date": "2026-05-05T22:30:00.000Z",
+    "format": "M-A",
+    "id": "69f741c44f71d664893eb5bf",
+    "players": 53,
+    "organizerId": 1437
+  },
+  {
+    "game": "VGC",
+    "name": "Dark Storm Team testing #6",
+    "date": "2026-05-05T18:30:00.000Z",
+    "format": "M-A",
+    "id": "69f7b2bae23aab068aad9fdf",
+    "players": 9,
+    "organizerId": 2388
+  },
+  {
+    "game": "VGC",
+    "name": "Champions Tour LEPE #3",
+    "date": "2026-05-05T15:55:00.000Z",
+    "format": "M-A",
+    "id": "69f9d8d1e23aab068aadb6c6",
+    "players": 22,
+    "organizerId": 1650
+  },
+  {
+    "game": "VGC",
+    "name": "Moxie Monday Sub Tour #4",
+    "date": "2026-05-05T00:00:00.000Z",
+    "format": "M-A",
+    "id": "69f81d1be23aab068aada5f0",
+    "players": 9,
+    "organizerId": 708
+  },
+  {
+    "game": "VGC",
+    "name": "Pokepal Smackdown #139 (Champions) (Reg M-A)",
+    "date": "2026-05-04T23:30:00.000Z",
+    "format": "M-A",
+    "id": "69f0bf594f71d664893e651a",
+    "players": 30,
+    "organizerId": 893
+  },
+  {
+    "game": "VGC",
+    "name": "Intimidators Champions Challenge #6 - REG M-A",
+    "date": "2026-05-04T22:30:00.000Z",
+    "format": "M-A",
+    "id": "69f785424f71d664893eb9bf",
+    "players": 32,
+    "organizerId": 1582
+  },
+  {
+    "game": "VGC",
+    "name": "Devils Den Tournaments #76 - $100 For First",
+    "date": "2026-05-04T21:30:00.000Z",
+    "format": "M-A",
+    "id": "69f182e64f71d664893e6dfc",
+    "players": 141,
+    "organizerId": 1393
+  },
+  {
+    "game": "VGC",
+    "name": "Head Bussa's Hoedown#30 Champions $100 Top 4",
+    "date": "2026-05-04T21:04:00.000Z",
+    "format": "M-A",
+    "id": "69f01607e23aab068aad3fdd",
+    "players": 60,
+    "organizerId": 1337
+  },
+  {
+    "game": "VGC",
+    "name": "Sketch Academy Champions Regulation M-A Tournament",
+    "date": "2026-05-04T01:00:00.000Z",
+    "format": "M-A",
+    "id": "69eef9409d90c111990b8fa0",
+    "players": 42,
+    "organizerId": 1651
+  },
+  {
+    "game": "VGC",
+    "name": "Extreme Speed Pokémon Champions #4",
+    "date": "2026-05-04T00:00:00.000Z",
+    "format": "M-A",
+    "id": "69f3dd0de23aab068aad66d6",
+    "players": 32,
+    "organizerId": 848
+  },
+  {
+    "game": "VGC",
+    "name": "Chaos League Sunday Slam #99",
+    "date": "2026-05-03T21:00:00.000Z",
+    "format": "M-A",
+    "id": "69ef9dd4e23aab068aad3843",
+    "players": 20,
+    "organizerId": 1254
+  },
+  {
+    "game": "VGC",
+    "name": "Countered NON Mega Popup | FREE SHINIES",
+    "date": "2026-05-03T18:00:00.000Z",
+    "format": "M-A",
+    "id": "69ee68cd9d90c111990b8df1",
+    "players": 10,
+    "organizerId": 2045
+  },
+  {
+    "game": "VGC",
+    "name": "SpearPillar Region Rumble Latin America Qualifier",
+    "date": "2026-05-03T18:00:00.000Z",
+    "format": "M-A",
+    "id": "69daf69048d465883f710e34",
+    "players": 34,
+    "organizerId": 822
+  },
+  {
+    "game": "VGC",
+    "name": "Champions Collective #5",
+    "date": "2026-05-03T15:00:00.000Z",
+    "format": "M-A",
+    "id": "69e3beca78b359b789d65f49",
+    "players": 29,
+    "organizerId": 2636
+  },
+  {
+    "game": "VGC",
+    "name": "King's Gambit #2 | Reg M-A",
+    "date": "2026-05-03T13:00:00.000Z",
+    "format": "M-A",
+    "id": "69f3cbdde23aab068aad656d",
+    "players": 12,
+    "organizerId": 1754
+  },
+  {
+    "game": "VGC",
+    "name": "VGC Trainer School; champions M/A #3",
+    "date": "2026-05-03T13:00:00.000Z",
+    "format": "M-A",
+    "id": "69e0df1048d465883f714a1c",
+    "players": 40,
+    "organizerId": 672
+  },
+  {
+    "game": "VGC",
+    "name": "DucPokémonChampions#2",
+    "date": "2026-05-03T12:30:00.000Z",
+    "format": "M-A",
+    "id": "69f0f9724f71d664893e66c3",
+    "players": 10,
+    "organizerId": 2665
+  },
+  {
+    "game": "VGC",
+    "name": "SpearPillar Region Rumble Asia/Pacific Qualifier",
+    "date": "2026-05-03T09:00:00.000Z",
+    "format": "M-A",
+    "id": "69daf76f48d465883f710e51",
+    "players": 16,
+    "organizerId": 822
+  },
+  {
+    "game": "VGC",
+    "name": "Champions Cup",
+    "date": "2026-05-03T05:00:00.000Z",
+    "format": "M-A",
+    "id": "69ef338663e53b0bb0b702c4",
+    "players": 128,
+    "organizerId": 2671
+  },
+  {
+    "game": "VGC",
+    "name": "Champions Double Weekend Prep III",
+    "date": "2026-05-03T04:25:00.000Z",
+    "format": "M-A",
+    "id": "69f6c2c84f71d664893eb284",
+    "players": 6,
+    "organizerId": 2678
+  },
+  {
+    "game": "VGC",
+    "name": "Mt. Moon Champions VGC Puerto Rico Weekly #1 2026",
+    "date": "2026-05-03T01:00:00.000Z",
+    "format": "M-A",
+    "id": "69f66cd9e23aab068aad9051",
+    "players": 10,
+    "organizerId": 658
+  },
+  {
+    "game": "VGC",
+    "name": "PWC - Battle in the Colosseum #9 - Reg M-A",
+    "date": "2026-05-03T00:30:00.000Z",
+    "format": "M-A",
+    "id": "69ebf6ab51f4cfe50104e9e2",
+    "players": 13,
+    "organizerId": 1627
+  },
+  {
+    "game": "VGC",
+    "name": "Road to Area 229 #2",
+    "date": "2026-05-02T22:45:00.000Z",
+    "format": "M-A",
+    "id": "69efb723e23aab068aad3a71",
+    "players": 42,
+    "organizerId": 2642
+  },
+  {
+    "game": "VGC",
+    "name": "VGC UU Champions (Regulation M-A) Kickoff",
+    "date": "2026-05-02T20:00:00.000Z",
+    "format": "M-A",
+    "id": "69f4cef0e23aab068aad72d4",
+    "players": 18,
+    "organizerId": 2280
+  },
+  {
+    "game": "VGC",
+    "name": "Rutgers Scarlet Classic Pokemon Champions VGC Tour",
+    "date": "2026-05-02T17:45:00.000Z",
+    "format": "M-A",
+    "id": "69eba1eb19228b1daf6bf907",
+    "players": 86,
+    "organizerId": 2663
+  },
+  {
+    "game": "VGC",
+    "name": "ChampionMads Singles Battle Arena #1 - $50 USD",
+    "date": "2026-05-02T16:00:00.000Z",
+    "format": "M-A",
+    "id": "69efd51b4f71d664893e5db9",
+    "players": 39,
+    "organizerId": 13
+  },
+  {
+    "game": "VGC",
+    "name": "🟊 @AustinMcfraud's CHAMPIONS Showdown #2 🟊",
+    "date": "2026-05-02T16:00:00.000Z",
+    "format": "M-A",
+    "id": "69ee066cf9b24b9bd5b024d7",
+    "players": 23,
+    "organizerId": 40
+  },
+  {
+    "game": "VGC",
+    "name": "SpearPillar Champions Tour #2 | Reg M-A $100 Prize",
+    "date": "2026-05-02T15:00:00.000Z",
+    "format": "M-A",
+    "id": "69cd686036f5b5c303dc45b1",
+    "players": 270,
+    "organizerId": 822
+  },
+  {
+    "game": "VGC",
+    "name": "Lega dei Bollenti 2 (Pokemon Champions)",
+    "date": "2026-05-02T14:00:00.000Z",
+    "format": "M-A",
+    "id": "69f33c5d4f71d664893e7bbf",
+    "players": 25,
+    "organizerId": 2628
+  },
+  {
+    "game": "VGC",
+    "name": "Game Corner Showdown 2025 - Split 3 | Torneio #2",
+    "date": "2026-05-02T14:00:00.000Z",
+    "format": "M-A",
+    "id": "69f09b394f71d664893e6435",
+    "players": 11,
+    "organizerId": 674
+  },
+  {
+    "game": "VGC",
+    "name": "LIGA DA COMUNIDADE #4 (R$ 1.000 PRIZE POOL)",
+    "date": "2026-05-02T13:00:00.000Z",
+    "format": "M-A",
+    "id": "69dd6d2e48d465883f712e47",
+    "players": 177,
+    "organizerId": 919
+  },
+  {
+    "game": "VGC",
+    "name": "ALD TOUR SHOWDOWN (Reg M-A) #41",
+    "date": "2026-05-02T09:00:00.000Z",
+    "format": "M-A",
+    "id": "69f1a1264f71d664893e6e47",
+    "players": 7,
+    "organizerId": 1281
+  },
+  {
+    "game": "VGC",
+    "name": "Gephitour 10: M-GephickA",
+    "date": "2026-05-02T02:30:00.000Z",
+    "format": "M-A",
+    "id": "69f5545de23aab068aad7dd3",
+    "players": 12,
+    "organizerId": 2280
+  },
+  {
+    "game": "VGC",
+    "name": "Torneo Inaugural de Panucho VGC!",
+    "date": "2026-05-02T02:00:00.000Z",
+    "format": "M-A",
+    "id": "69eece9a9d90c111990b8f7d",
+    "players": 10,
+    "organizerId": 2656
+  },
+  {
+    "game": "VGC",
+    "name": "Pokemon Champions Challenge #4",
+    "date": "2026-05-02T00:00:00.000Z",
+    "format": "M-A",
+    "id": "69f2294b4f71d664893e71bf",
+    "players": 62,
+    "organizerId": 2607
+  },
+  {
+    "game": "VGC",
+    "name": "Pokemon Dominicana - Champions League #3",
+    "date": "2026-05-02T00:00:00.000Z",
+    "format": "M-A",
+    "id": "69ef8cb44f71d664893e5762",
+    "players": 21,
+    "organizerId": 826
+  },
+  {
+    "game": "VGC",
+    "name": "Friday Fight Night #53 Reg M-A Bo3",
+    "date": "2026-05-01T22:40:00.000Z",
+    "format": "M-A",
+    "id": "69ec2fa8519a1682506d66fa",
+    "players": 47,
+    "organizerId": 1107
+  },
+  {
+    "game": "VGC",
+    "name": "Unova Champions League #4 / POKÉMON CHAMPIONS",
+    "date": "2026-05-01T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69ee6fd363e53b0bb0b7015f",
+    "players": 24,
+    "organizerId": 956
+  },
+  {
+    "game": "VGC",
+    "name": "Pokevents Champions Challenge",
+    "date": "2026-05-01T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69ea84d578b359b789d6a513",
+    "players": 20,
+    "organizerId": 695
+  },
+  {
+    "game": "VGC",
+    "name": "CHAMPIONS REG. M-A |👑CROWN FIGHT Bo3 TOUR #67👑",
+    "date": "2026-05-01T16:15:00.000Z",
+    "format": "M-A",
+    "id": "69c55ef2d478313a15a331e7",
+    "players": 77,
+    "organizerId": 1723
+  },
+  {
+    "game": "VGC",
+    "name": "POKÉMON CHAMPIONS Circuito VGC #2 | Z2 Gaming",
+    "date": "2026-05-01T15:10:00.000Z",
+    "format": "M-A",
+    "id": "69ef76f44f71d664893e56aa",
+    "players": 26,
+    "organizerId": 2585
+  },
+  {
+    "game": "VGC",
+    "name": "Intimidators Champions Challenge #5 - REG M-A",
+    "date": "2026-04-30T23:00:00.000Z",
+    "format": "M-A",
+    "id": "69f26c10e23aab068aad57ac",
+    "players": 25,
+    "organizerId": 1582
+  },
+  {
+    "game": "VGC",
+    "name": "Talon's FIGHT CLUB #82 POKEMON CHAMPIONS",
+    "date": "2026-04-30T23:00:00.000Z",
+    "format": "M-A",
+    "id": "69c84b7236f5b5c303dc0601",
+    "players": 89,
+    "organizerId": 1077
+  },
+  {
+    "game": "VGC",
+    "name": "Champions Collective #4",
+    "date": "2026-04-30T17:30:00.000Z",
+    "format": "M-A",
+    "id": "69e3bebe48d465883f717271",
+    "players": 49,
+    "organizerId": 2636
+  },
+  {
+    "game": "VGC",
+    "name": "Base Camp #1 - Tournament for beginners!",
+    "date": "2026-04-30T15:00:00.000Z",
+    "format": "M-A",
+    "id": "69d502bf0e548b5c2fbe582f",
+    "players": 26,
+    "organizerId": 1626
+  },
+  {
+    "game": "VGC",
+    "name": "WARTORTLE WEDNESDAYS #57 REG M-A BO3 SWISS",
+    "date": "2026-04-30T05:30:00.000Z",
+    "format": "M-A",
+    "id": "69f193e1e23aab068aad4f44",
+    "players": 23,
+    "organizerId": 1770
+  },
+  {
+    "game": "VGC",
+    "name": "🏆Pokémon CHAMPIONS🏆 Mi Dulce Japón Tournament #3",
+    "date": "2026-04-30T02:30:00.000Z",
+    "format": "M-A",
+    "id": "69efb61fe23aab068aad3a28",
+    "players": 8,
+    "organizerId": 2491
+  },
+  {
+    "game": "VGC",
+    "name": "Northern Ontario VGC Tour - April 29th",
+    "date": "2026-04-29T23:00:00.000Z",
+    "format": "M-A",
+    "id": "69eeb4929d90c111990b8f53",
+    "players": 23,
+    "organizerId": 713
+  },
+  {
+    "game": "VGC",
+    "name": "*Sitrus-Series*|Champions|#56",
+    "date": "2026-04-29T22:00:00.000Z",
+    "format": "M-A",
+    "id": "69ebc40b51f4cfe50104e90e",
+    "players": 69,
+    "organizerId": 1468
+  },
+  {
+    "game": "VGC",
+    "name": "Tenki's Cart - Champions M-A",
+    "date": "2026-04-29T15:00:00.000Z",
+    "format": "M-A",
+    "id": "69ef144c8c6a7308858689f3",
+    "players": 76,
+    "organizerId": 1752
+  },
+  {
+    "game": "VGC",
+    "name": "HeroicTitan’s VGC Battle Arena",
+    "date": "2026-04-29T01:00:00.000Z",
+    "format": "M-A",
+    "id": "69dfc5ca78b359b789d62c56",
+    "players": 42,
+    "organizerId": 2397
+  },
+  {
+    "game": "VGC",
+    "name": "The Drywalls Series #2 - Champions!",
+    "date": "2026-04-28T22:30:00.000Z",
+    "format": "M-A",
+    "id": "69ee123d8c6a730885868485",
+    "players": 53,
+    "organizerId": 1437
+  },
+  {
+    "game": "VGC",
+    "name": "Dark Storm Team testing #5",
+    "date": "2026-04-28T18:30:00.000Z",
+    "format": "M-A",
+    "id": "69e5c73778b359b789d67bd5",
+    "players": 7,
+    "organizerId": 2388
+  },
+  {
+    "game": "VGC",
+    "name": "Boldore's Gate 10 - Champions SINGLES! - $5 Pool",
+    "date": "2026-04-28T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69ef770ae23aab068aad36a1",
+    "players": 7,
+    "organizerId": 2620
+  },
+  {
+    "game": "VGC",
+    "name": "Champions Tour LEPE #2",
+    "date": "2026-04-28T15:00:00.000Z",
+    "format": "M-A",
+    "id": "69f0a16b4f71d664893e6470",
+    "players": 24,
+    "organizerId": 1650
+  },
+  {
+    "game": "VGC",
+    "name": "Gerty Gaming Champions",
+    "date": "2026-04-28T14:00:00.000Z",
+    "format": "M-A",
+    "id": "69f0753ee23aab068aad4256",
+    "players": 13,
+    "organizerId": 1157
+  },
+  {
+    "game": "VGC",
+    "name": "Boldore's Gate #9 Popup! CLOSED TEAMSHEETS",
+    "date": "2026-04-28T02:00:00.000Z",
+    "format": "M-A",
+    "id": "69efeff0e23aab068aad3dba",
+    "players": 7,
+    "organizerId": 2620
+  },
+  {
+    "game": "VGC",
+    "name": "Pokepal Smackdown #138 (Champions) (Reg M-A)",
+    "date": "2026-04-27T23:30:00.000Z",
+    "format": "M-A",
+    "id": "69ced3a136f5b5c303dc52ae",
+    "players": 43,
+    "organizerId": 893
+  },
+  {
+    "game": "VGC",
+    "name": "BPL LAST DAY CHAMPIONS TOSS DOWN",
+    "date": "2026-04-27T23:15:00.000Z",
+    "format": "M-A",
+    "id": "69efe8cf4f71d664893e5f55",
+    "players": 10,
+    "organizerId": 102
+  },
+  {
+    "game": "VGC",
+    "name": "Intimidators Champions Challenge #4 - REG M-A",
+    "date": "2026-04-27T23:00:00.000Z",
+    "format": "M-A",
+    "id": "69eebbcc9d90c111990b8f60",
+    "players": 42,
+    "organizerId": 1582
+  },
+  {
+    "game": "VGC",
+    "name": "Devils Den Tournaments #75",
+    "date": "2026-04-27T21:30:00.000Z",
+    "format": "M-A",
+    "id": "69ebdafb8c6a730885867cf4",
+    "players": 24,
+    "organizerId": 1393
+  },
+  {
+    "game": "VGC",
+    "name": "Head Bussa's Hoedown#29 ChampionsReg M-A $25 1st",
+    "date": "2026-04-27T21:01:00.000Z",
+    "format": "M-A",
+    "id": "69eb5d9078b359b789d6abf8",
+    "players": 99,
+    "organizerId": 1337
+  },
+  {
+    "game": "VGC",
+    "name": "Boldore's Gate #8 - $5 USD - Champions Weekly 4/27",
+    "date": "2026-04-27T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69ee41249d90c111990b8c2f",
+    "players": 62,
+    "organizerId": 2620
+  },
+  {
+    "game": "VGC",
+    "name": "Sketch Academy Champions Regulation M-A Tournament",
+    "date": "2026-04-27T01:00:00.000Z",
+    "format": "M-A",
+    "id": "69e5dff978b359b789d67c03",
+    "players": 60,
+    "organizerId": 1651
+  },
+  {
+    "game": "VGC",
+    "name": "Chaos League Sunday Slam #98",
+    "date": "2026-04-26T21:00:00.000Z",
+    "format": "M-A",
+    "id": "69e583d578b359b789d679a0",
+    "players": 59,
+    "organizerId": 1254
+  },
+  {
+    "game": "VGC",
+    "name": "Pokemon Champions Women's League",
+    "date": "2026-04-26T21:00:00.000Z",
+    "format": "M-A",
+    "id": "69e5725248d465883f718759",
+    "players": 11,
+    "organizerId": 2045
+  },
+  {
+    "game": "VGC",
+    "name": "Champions 🇨🇷 tour #1",
+    "date": "2026-04-26T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69e7d99c48d465883f719e20",
+    "players": 60,
+    "organizerId": 1387
+  },
+  {
+    "game": "VGC",
+    "name": "Rookidee VGC Cup",
+    "date": "2026-04-26T15:00:00.000Z",
+    "format": "M-A",
+    "id": "698c05096235e3ab106c0d4e",
+    "players": 64,
+    "organizerId": 2513
+  },
+  {
+    "game": "VGC",
+    "name": "Rework Esport Champions Talent Cup | 50€ CP",
+    "date": "2026-04-26T13:00:00.000Z",
+    "format": "M-A",
+    "id": "69dcf16e78b359b789d61163",
+    "players": 126,
+    "organizerId": 1930
+  },
+  {
+    "game": "VGC",
+    "name": "The Dark League champions pop up !!",
+    "date": "2026-04-26T10:00:00.000Z",
+    "format": "M-A",
+    "id": "69ed9a9cf61d169de1369db6",
+    "players": 18,
+    "organizerId": 2045
+  },
+  {
+    "game": "VGC",
+    "name": "Extreme Speed Pokémon Champions #3",
+    "date": "2026-04-26T01:00:00.000Z",
+    "format": "M-A",
+    "id": "69e80ac578b359b789d68fdd",
+    "players": 67,
+    "organizerId": 848
+  },
+  {
+    "game": "VGC",
+    "name": "ZGG #3 Pokemon Champions VGC $100 Tournament!",
+    "date": "2026-04-25T16:00:00.000Z",
+    "format": "M-A",
+    "id": "69e52af148d465883f71845c",
+    "players": 131,
+    "organizerId": 2551
+  },
+  {
+    "game": "VGC",
+    "name": "The Grand Champions Festival",
+    "date": "2026-04-25T14:00:00.000Z",
+    "format": "M-A",
+    "id": "69c30ae236f5b5c303dbce1c",
+    "players": 6109,
+    "organizerId": 708
+  },
+  {
+    "game": "VGC",
+    "name": "LIGA DA COMUNIDADE #3 (R$ 1.000 PRIZE POOL)",
+    "date": "2026-04-25T13:00:00.000Z",
+    "format": "M-A",
+    "id": "69dd6cef78b359b789d618c7",
+    "players": 221,
+    "organizerId": 919
+  },
+  {
+    "game": "VGC",
+    "name": "BFI Warm Up",
+    "date": "2026-04-25T06:00:00.000Z",
+    "format": "M-A",
+    "id": "69d85ca4c734cfa1af2b68d5",
+    "players": 15,
+    "organizerId": 632
+  },
+  {
+    "game": "VGC",
+    "name": "Wrokk's Oddball Tour #12",
+    "date": "2026-04-25T03:00:00.000Z",
+    "format": "M-A",
+    "id": "69dee28d78b359b789d625f2",
+    "players": 14,
+    "organizerId": 2397
+  },
+  {
+    "game": "VGC",
+    "name": "Champions Mono Normal Tournament",
+    "date": "2026-04-25T02:25:00.000Z",
+    "format": "M-A",
+    "id": "69dfd61d78b359b789d62d45",
+    "players": 4,
+    "organizerId": 2620
+  },
+  {
+    "game": "VGC",
+    "name": "Pokemon Dominicana - Champions League #2",
+    "date": "2026-04-25T00:00:00.000Z",
+    "format": "M-A",
+    "id": "69e6596848d465883f718f08",
+    "players": 21,
+    "organizerId": 826
+  },
+  {
+    "game": "VGC",
+    "name": "Pokeacadamy throwdown",
+    "date": "2026-04-24T23:15:00.000Z",
+    "format": "M-A",
+    "id": "69ebf6d25419564613339161",
+    "players": 10,
+    "organizerId": 102
+  },
+  {
+    "game": "VGC",
+    "name": "PWC - Battle in the Colosseum #8 - Reg M-A",
+    "date": "2026-04-24T23:00:00.000Z",
+    "format": "M-A",
+    "id": "69bf07f036f5b5c303dbb0f4",
+    "players": 9,
+    "organizerId": 1627
+  },
+  {
+    "game": "VGC",
+    "name": "Friday Fight Night #52 Reg M-A Bo3",
+    "date": "2026-04-24T22:40:00.000Z",
+    "format": "M-A",
+    "id": "69e2f71d78b359b789d652c2",
+    "players": 42,
+    "organizerId": 1107
+  },
+  {
+    "game": "VGC",
+    "name": "Unova Champions League #3 / POKÉMON CHAMPIONS",
+    "date": "2026-04-24T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69e36ea778b359b789d65647",
+    "players": 12,
+    "organizerId": 956
+  },
+  {
+    "game": "VGC",
+    "name": "CHAMPIONS REG. M-A |👑CROWN FIGHT Bo3 TOUR #66👑",
+    "date": "2026-04-24T16:25:00.000Z",
+    "format": "M-A",
+    "id": "69c31fd3d478313a15a321be",
+    "players": 94,
+    "organizerId": 1723
+  },
+  {
+    "game": "VGC",
+    "name": "Pokémon Champions Reg M-A | CGCL Weekly #2",
+    "date": "2026-04-24T14:00:00.000Z",
+    "format": "M-A",
+    "id": "69dfe7f648d465883f7143c8",
+    "players": 46,
+    "organizerId": 2232
+  },
+  {
+    "game": "VGC",
+    "name": "Intimidators Champions Challenge #3 - REG M-A",
+    "date": "2026-04-23T23:00:00.000Z",
+    "format": "M-A",
+    "id": "69e913d378b359b789d697af",
+    "players": 36,
+    "organizerId": 1582
+  },
+  {
+    "game": "VGC",
+    "name": "Talon's FIGHT CLUB #81 POKEMON CHAMPIONS",
+    "date": "2026-04-23T23:00:00.000Z",
+    "format": "M-A",
+    "id": "69c84b5b36f5b5c303dc0600",
+    "players": 95,
+    "organizerId": 1077
+  },
+  {
+    "game": "VGC",
+    "name": "[REG M-A] LearningtoSam's Weekly PokéLeague",
+    "date": "2026-04-23T18:15:00.000Z",
+    "format": "M-A",
+    "id": "69e11f2e48d465883f714e9a",
+    "players": 43,
+    "organizerId": 2549
+  },
+  {
+    "game": "VGC",
+    "name": "Tenki's Cart - Champions M-A",
+    "date": "2026-04-23T15:00:00.000Z",
+    "format": "M-A",
+    "id": "69e326b178b359b789d65515",
+    "players": 67,
+    "organizerId": 1752
+  },
+  {
+    "game": "VGC",
+    "name": "The Dark League Champions pop up!!!",
+    "date": "2026-04-23T10:00:00.000Z",
+    "format": "M-A",
+    "id": "69e9cb7548d465883f71ac2d",
+    "players": 7,
+    "organizerId": 2045
+  },
+  {
+    "game": "VGC",
+    "name": "WARTORTLE WEDNESDAYS #56 REG M-A BO3 SWISS",
+    "date": "2026-04-23T06:00:00.000Z",
+    "format": "M-A",
+    "id": "69e8651548d465883f71a3ba",
+    "players": 20,
+    "organizerId": 1770
+  },
+  {
+    "game": "VGC",
+    "name": "*Sitrus-Series*|Champions|#55",
+    "date": "2026-04-22T22:00:00.000Z",
+    "format": "M-A",
+    "id": "69e278f378b359b789d64925",
+    "players": 105,
+    "organizerId": 1468
+  },
+  {
+    "game": "VGC",
+    "name": "Pokevents Champions Opening Tour",
+    "date": "2026-04-22T18:00:00.000Z",
+    "format": "M-A",
+    "id": "69d8cf8048d465883f70dd6a",
+    "players": 34,
+    "organizerId": 695
+  },
+  {
+    "game": "VGC",
+    "name": "Champions Collective #3",
+    "date": "2026-04-22T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69e3bead48d465883f717270",
+    "players": 63,
+    "organizerId": 2636
+  },
+  {
+    "game": "VGC",
+    "name": "N's Castle Showdown! | Champions is Here! 🎖️",
+    "date": "2026-04-22T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69d9c37648d465883f70f262",
+    "players": 3,
+    "organizerId": 2564
+  },
+  {
+    "game": "VGC",
+    "name": "Torneo #2 Ranking PokéChampionsDestiny",
+    "date": "2026-04-22T14:00:00.000Z",
+    "format": "M-A",
+    "id": "69dcdb6b78b359b789d610ae",
+    "players": 32,
+    "organizerId": 1075
+  },
+  {
+    "game": "VGC",
+    "name": "Mid-Week Smoke #1",
+    "date": "2026-04-22T12:00:00.000Z",
+    "format": "M-A",
+    "id": "69e1ad8078b359b789d6425e",
+    "players": 23,
+    "organizerId": 2576
+  },
+  {
+    "game": "VGC",
+    "name": "HeroicTitan’s VGC Battle Arena",
+    "date": "2026-04-22T01:00:00.000Z",
+    "format": "M-A",
+    "id": "69dfc51278b359b789d62c50",
+    "players": 38,
+    "organizerId": 2397
+  },
+  {
+    "game": "VGC",
+    "name": "Champions Weekly (Flashback Fight Night 49)",
+    "date": "2026-04-22T00:00:00.000Z",
+    "format": "M-A",
+    "id": "69e67f6a48d465883f7191e7",
+    "players": 3,
+    "organizerId": 2620
+  },
+  {
+    "game": "VGC",
+    "name": "The Drywall Series - Champions!",
+    "date": "2026-04-21T22:30:00.000Z",
+    "format": "M-A",
+    "id": "69de7a7b78b359b789d621d4",
+    "players": 102,
+    "organizerId": 1437
+  },
+  {
+    "game": "VGC",
+    "name": "Champions Weekly (Day Bracket) (FFN)",
+    "date": "2026-04-21T18:00:00.000Z",
+    "format": "M-A",
+    "id": "69e79f1478b359b789d68bda",
+    "players": 3,
+    "organizerId": 2620
+  },
+  {
+    "game": "VGC",
+    "name": "VGC RS CHAMPIONS 1",
+    "date": "2026-04-21T18:00:00.000Z",
+    "format": "M-A",
+    "id": "69db98e678b359b789d602ee",
+    "players": 15,
+    "organizerId": 866
+  },
+  {
+    "game": "VGC",
+    "name": "Mega Tournament",
+    "date": "2026-04-21T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69e431fd78b359b789d6682c",
+    "players": 27,
+    "organizerId": 1852
+  },
+  {
+    "game": "VGC",
+    "name": "Moxie Monday Weekly",
+    "date": "2026-04-21T01:30:00.000Z",
+    "format": "M-A",
+    "id": "69e6c03448d465883f7196e6",
+    "players": 4,
+    "organizerId": 708
+  },
+  {
+    "game": "VGC",
+    "name": "Pokepal Smackdown #137 (Champions) (Reg M-A)",
+    "date": "2026-04-20T23:30:00.000Z",
+    "format": "M-A",
+    "id": "69c684c0d478313a15a33e7e",
+    "players": 80,
+    "organizerId": 893
+  },
+  {
+    "game": "VGC",
+    "name": "Intimidators Champions Challenge #2 - REG M-A",
+    "date": "2026-04-20T23:00:00.000Z",
+    "format": "M-A",
+    "id": "69e522f948d465883f7183ae",
+    "players": 46,
+    "organizerId": 1582
+  },
+  {
+    "game": "VGC",
+    "name": "Devils Den Tournaments #74",
+    "date": "2026-04-20T21:30:00.000Z",
+    "format": "M-A",
+    "id": "69e282e178b359b789d64a29",
+    "players": 85,
+    "organizerId": 1393
+  },
+  {
+    "game": "VGC",
+    "name": "Champions Collective #2",
+    "date": "2026-04-20T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69e3bcfc48d465883f717266",
+    "players": 47,
+    "organizerId": 2636
+  },
+  {
+    "game": "VGC",
+    "name": "VGCA Battle Hall #26",
+    "date": "2026-04-20T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69e11ae848d465883f714e4b",
+    "players": 92,
+    "organizerId": 1527
+  },
+  {
+    "game": "VGC",
+    "name": "UCSC VGC Weekly 4/19/26",
+    "date": "2026-04-20T02:00:00.000Z",
+    "format": "M-A",
+    "id": "69e2576478b359b789d64717",
+    "players": 3,
+    "organizerId": 104
+  },
+  {
+    "game": "VGC",
+    "name": "Sketch Academy Champions Regulation M-A Tournament",
+    "date": "2026-04-20T01:00:00.000Z",
+    "format": "M-A",
+    "id": "69d83b48b9ec970afa607423",
+    "players": 81,
+    "organizerId": 1651
+  },
+  {
+    "game": "VGC",
+    "name": "MI USPA Team Tourney (Champions) (Reg M-A)",
+    "date": "2026-04-19T21:00:00.000Z",
+    "format": "M-A",
+    "id": "69e53cb448d465883f7184ef",
+    "players": 14,
+    "organizerId": 893
+  },
+  {
+    "game": "VGC",
+    "name": "Chaos League Sunday Slam #97",
+    "date": "2026-04-19T21:00:00.000Z",
+    "format": "M-A",
+    "id": "69dc126548d465883f711e2c",
+    "players": 21,
+    "organizerId": 1254
+  },
+  {
+    "game": "VGC",
+    "name": "Pokémon Champions SV #1",
+    "date": "2026-04-19T20:00:00.000Z",
+    "format": "M-A",
+    "id": "69e01fb248d465883f714629",
+    "players": 104,
+    "organizerId": 801
+  },
+  {
+    "game": "VGC",
+    "name": "Glitch VGC Champions Tournament #1",
+    "date": "2026-04-19T16:25:00.000Z",
+    "format": "M-A",
+    "id": "69dfd39b48d465883f71421c",
+    "players": 15,
+    "organizerId": 334
+  },
+  {
+    "game": "VGC",
+    "name": "Fiery Sparks M-A #1",
+    "date": "2026-04-19T16:00:00.000Z",
+    "format": "M-A",
+    "id": "69dd20ae78b359b789d613af",
+    "players": 8,
+    "organizerId": 2639
+  },
+  {
+    "game": "VGC",
+    "name": "Delites Champions Cup #1 (Reg M-A)",
+    "date": "2026-04-19T15:00:00.000Z",
+    "format": "M-A",
+    "id": "69dd36ec78b359b789d61552",
+    "players": 65,
+    "organizerId": 900
+  },
+  {
+    "game": "VGC",
+    "name": "Mossy Monthly #1| Reg M-A",
+    "date": "2026-04-19T14:00:00.000Z",
+    "format": "M-A",
+    "id": "69e09bde48d465883f71490d",
+    "players": 6,
+    "organizerId": 621
+  },
+  {
+    "game": "VGC",
+    "name": "VGC Trainer School; CHAMPIONS FORMAT! M/A #2",
+    "date": "2026-04-19T13:00:00.000Z",
+    "format": "M-A",
+    "id": "69db00a278b359b789d5fdd2",
+    "players": 86,
+    "organizerId": 672
+  },
+  {
+    "game": "VGC",
+    "name": "PCP Premier Series: A Champion's Welcome!",
+    "date": "2026-04-19T05:00:00.000Z",
+    "format": "M-A",
+    "id": "69d55cb60e548b5c2fbe5d7f",
+    "players": 45,
+    "organizerId": 1897
+  },
+  {
+    "game": "VGC",
+    "name": "Extreme Speed Pokémon Champions #2",
+    "date": "2026-04-19T01:00:00.000Z",
+    "format": "M-A",
+    "id": "69dfce4678b359b789d62cb8",
+    "players": 83,
+    "organizerId": 848
+  },
+  {
+    "game": "VGC",
+    "name": "Vapor’s Saturday Showdown #6",
+    "date": "2026-04-18T23:00:00.000Z",
+    "format": "M-A",
+    "id": "69df341d48d465883f713d35",
+    "players": 6,
+    "organizerId": 2565
+  },
+  {
+    "game": "VGC",
+    "name": "Road to Area 229 #1",
+    "date": "2026-04-18T22:30:00.000Z",
+    "format": "M-A",
+    "id": "69e02ce448d465883f714722",
+    "players": 62,
+    "organizerId": 2642
+  },
+  {
+    "game": "VGC",
+    "name": "Game Corner Showdown 2025 - Split 3 | Torneio #1",
+    "date": "2026-04-18T20:00:00.000Z",
+    "format": "M-A",
+    "id": "69df54d748d465883f713d80",
+    "players": 13,
+    "organizerId": 674
+  },
+  {
+    "game": "VGC",
+    "name": "ZGG #2 Pokemon Champions VGC $100 Tournament!",
+    "date": "2026-04-18T16:15:00.000Z",
+    "format": "M-A",
+    "id": "69dac51848d465883f710933",
+    "players": 150,
+    "organizerId": 2551
+  },
+  {
+    "game": "VGC",
+    "name": "🟊 @AustinMcfraud's CHAMPIONS Showdown #1 🟊",
+    "date": "2026-04-18T16:00:00.000Z",
+    "format": "M-A",
+    "id": "69deb1a678b359b789d623eb",
+    "players": 19,
+    "organizerId": 40
+  },
+  {
+    "game": "VGC",
+    "name": "SpearPillar x WonderWorld #1| $300 Prize Reg M-A",
+    "date": "2026-04-18T15:00:00.000Z",
+    "format": "M-A",
+    "id": "69c301db36f5b5c303dbcdef",
+    "players": 254,
+    "organizerId": 822
+  },
+  {
+    "game": "VGC",
+    "name": "Littleroot Rumble (Champions Test Run!)",
+    "date": "2026-04-18T14:05:00.000Z",
+    "format": "M-A",
+    "id": "69dfa14b48d465883f713f13",
+    "players": 9,
+    "organizerId": 666
+  },
+  {
+    "game": "VGC",
+    "name": "LIGA DA COMUNIDADE #2 (R$ 1.000 PRIZE POOL)",
+    "date": "2026-04-18T13:00:00.000Z",
+    "format": "M-A",
+    "id": "69d18b350e548b5c2fbe3486",
+    "players": 301,
+    "organizerId": 919
+  },
+  {
+    "game": "VGC",
+    "name": "King's Gambit #1 | Reg M-A",
+    "date": "2026-04-18T13:00:00.000Z",
+    "format": "M-A",
+    "id": "671a96040947ec3b5d18a221",
+    "players": 15,
+    "organizerId": 1754
+  },
+  {
+    "game": "VGC",
+    "name": "Lega dei Bollenti (Pokemon Champions)",
+    "date": "2026-04-18T12:00:00.000Z",
+    "format": "M-A",
+    "id": "69d7ac9ab9ec970afa6068c1",
+    "players": 78,
+    "organizerId": 2628
+  },
+  {
+    "game": "VGC",
+    "name": "Coupe Critique Champions VGC #1 - 100€ de cp",
+    "date": "2026-04-18T12:00:00.000Z",
+    "format": "M-A",
+    "id": "69dd619478b359b789d617b1",
+    "players": 128,
+    "organizerId": 2621
+  },
+  {
+    "game": "VGC",
+    "name": "ALD TOUR SHOWDOWN (Reg M-A) #39",
+    "date": "2026-04-18T09:00:00.000Z",
+    "format": "M-A",
+    "id": "69d76478b9ec970afa60675b",
+    "players": 12,
+    "organizerId": 1281
+  },
+  {
+    "game": "VGC",
+    "name": "제1회 너클시티 챌린저스 [Hammerlocke Challengers]",
+    "date": "2026-04-18T05:00:00.000Z",
+    "format": "M-A",
+    "id": "69d5ec79b9ec970afa6057b7",
+    "players": 21,
+    "organizerId": 1518
+  },
+  {
+    "game": "VGC",
+    "name": "Torneo Champions VGC Nagasaki 2",
+    "date": "2026-04-18T00:30:00.000Z",
+    "format": "M-A",
+    "id": "69e2712f78b359b789d64889",
+    "players": 8,
+    "organizerId": 2432
+  },
+  {
+    "game": "VGC",
+    "name": "Pilar Training Arc. VGC",
+    "date": "2026-04-18T00:10:00.000Z",
+    "format": "M-A",
+    "id": "69e2c8ef48d465883f716333",
+    "players": 6,
+    "organizerId": 826
+  },
+  {
+    "game": "VGC",
+    "name": "PWC - Battle in the Colosseum #7 - Champions M-A",
+    "date": "2026-04-17T23:00:00.000Z",
+    "format": "M-A",
+    "id": "69bf07e536f5b5c303dbb0f3",
+    "players": 6,
+    "organizerId": 1627
+  },
+  {
+    "game": "VGC",
+    "name": "Friday Fight Night #51 Reg M-A Bo3",
+    "date": "2026-04-17T22:40:00.000Z",
+    "format": "M-A",
+    "id": "69d9eac578b359b789d5e62d",
+    "players": 24,
+    "organizerId": 1107
+  },
+  {
+    "game": "VGC",
+    "name": "Ratorneo #2 Apertura Champions 2026 | Reg MA | BO3",
+    "date": "2026-04-17T22:30:00.000Z",
+    "format": "M-A",
+    "id": "69def1c078b359b789d6271a",
+    "players": 11,
+    "organizerId": 2475
+  },
+  {
+    "game": "VGC",
+    "name": "The Herd / VGC LLC's Test Tourney!",
+    "date": "2026-04-17T22:15:00.000Z",
+    "format": "M-A",
+    "id": "69dd500748d465883f712cad",
+    "players": 20,
+    "organizerId": 1331
+  },
+  {
+    "game": "VGC",
+    "name": "Weekly | Liberation Crusade #1 | $100 |Volticons",
+    "date": "2026-04-17T19:00:00.000Z",
+    "format": "M-A",
+    "id": "69df35c348d465883f713d3c",
+    "players": 91,
+    "organizerId": 2643
+  },
+  {
+    "game": "VGC",
+    "name": "CHAMPIONS COLLECTIVE INAUGURAL TOURNAMENT",
+    "date": "2026-04-17T18:00:00.000Z",
+    "format": "M-A",
+    "id": "69da990478b359b789d5f366",
+    "players": 66,
+    "organizerId": 2636
+  },
+  {
+    "game": "VGC",
+    "name": "Unova Champions League #2 / POKÉMON CHAMPIONS",
+    "date": "2026-04-17T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69db6d3e78b359b789d6015d",
+    "players": 22,
+    "organizerId": 956
+  },
+  {
+    "game": "VGC",
+    "name": "CHAMPIONS REG. M-A |👑CROWN FIGHT Bo3 TOUR #65👑",
+    "date": "2026-04-17T16:20:00.000Z",
+    "format": "M-A",
+    "id": "69c3147936f5b5c303dbce56",
+    "players": 117,
+    "organizerId": 1723
+  },
+  {
+    "game": "VGC",
+    "name": "biffpipp’s Battle Frontier - CHAMPS M-A TOUR #1",
+    "date": "2026-04-16T23:30:00.000Z",
+    "format": "M-A",
+    "id": "69dcdebf78b359b789d610c5",
+    "players": 30,
+    "organizerId": 1331
+  },
+  {
+    "game": "VGC",
+    "name": "Talon's FIGHT CLUB #80 POKEMON CHAMPIONS",
+    "date": "2026-04-16T23:00:00.000Z",
+    "format": "M-A",
+    "id": "69c84b44d478313a15a35923",
+    "players": 103,
+    "organizerId": 1077
+  },
+  {
+    "game": "VGC",
+    "name": "🏅CHAMPIONS ARENA🏅$96 USD | Guti x Trainers TCG",
+    "date": "2026-04-16T19:00:00.000Z",
+    "format": "M-A",
+    "id": "69db300848d465883f7113a1",
+    "players": 171,
+    "organizerId": 1990
+  },
+  {
+    "game": "VGC",
+    "name": "[REG M-A] LearningtoSam's Weekly PokéLeague",
+    "date": "2026-04-16T18:15:00.000Z",
+    "format": "M-A",
+    "id": "69d68f27c734cfa1af2b4f45",
+    "players": 27,
+    "organizerId": 2549
+  },
+  {
+    "game": "VGC",
+    "name": "Champions Thursday Throwdown!",
+    "date": "2026-04-16T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69e058f278b359b789d632fe",
+    "players": 13,
+    "organizerId": 2620
+  },
+  {
+    "game": "VGC",
+    "name": "WARTORTLE WEDNESDAYS #55 FIRST CHAMPS REG M-A",
+    "date": "2026-04-16T05:30:00.000Z",
+    "format": "M-A",
+    "id": "69dda54978b359b789d61ca6",
+    "players": 27,
+    "organizerId": 1770
+  },
+  {
+    "game": "VGC",
+    "name": "🏆Pokémon CHAMPIONS🏆 Mi Dulce Japón Tournament #1",
+    "date": "2026-04-16T02:00:00.000Z",
+    "format": "M-A",
+    "id": "69dd33ee48d465883f712a58",
+    "players": 15,
+    "organizerId": 2491
+  },
+  {
+    "game": "VGC",
+    "name": "Northern Ontario VGC Tour",
+    "date": "2026-04-15T23:00:00.000Z",
+    "format": "M-A",
+    "id": "69d9b1e448d465883f70ef1b",
+    "players": 30,
+    "organizerId": 713
+  },
+  {
+    "game": "VGC",
+    "name": "Copa Monkey Champions Prize Pool R$500,00",
+    "date": "2026-04-15T22:00:00.000Z",
+    "format": "M-A",
+    "id": "69d116ef800d329be2e71d14",
+    "players": 56,
+    "organizerId": 2120
+  },
+  {
+    "game": "VGC",
+    "name": "Tenki's Cart - Pokémon Champions M-A ruleset!",
+    "date": "2026-04-15T16:00:00.000Z",
+    "format": "M-A",
+    "id": "69cd7e09d478313a15a3932e",
+    "players": 81,
+    "organizerId": 1752
+  },
+  {
+    "game": "VGC",
+    "name": "Torneo #1 Ranking PokéChampionsDestiny",
+    "date": "2026-04-15T14:00:00.000Z",
+    "format": "M-A",
+    "id": "69cd52df36f5b5c303dc420b",
+    "players": 16,
+    "organizerId": 1075
+  },
+  {
+    "game": "VGC",
+    "name": "HeroicTitan’s VGC Battle Arena",
+    "date": "2026-04-15T01:00:00.000Z",
+    "format": "M-A",
+    "id": "69ddc3a848d465883f713282",
+    "players": 85,
+    "organizerId": 2397
+  },
+  {
+    "game": "VGC",
+    "name": "Champions Weekly (Flashback Fight Night)",
+    "date": "2026-04-14T19:00:00.000Z",
+    "format": "M-A",
+    "id": "69dd433578b359b789d61615",
+    "players": 26,
+    "organizerId": 2620
+  },
+  {
+    "game": "VGC",
+    "name": "TARTAN TAKEDOWN #27 - [CHAMPIONS]",
+    "date": "2026-04-14T17:30:00.000Z",
+    "format": "M-A",
+    "id": "69dbc00178b359b789d6049b",
+    "players": 64,
+    "organizerId": 2398
+  },
+  {
+    "game": "VGC",
+    "name": "SNT First Pokémon Champions Tournament",
+    "date": "2026-04-14T14:00:00.000Z",
+    "format": "M-A",
+    "id": "69d41dcd800d329be2e74139",
+    "players": 64,
+    "organizerId": 1844
+  },
+  {
+    "game": "VGC",
+    "name": "˗ˋˏ❤︎ˎˊ˗ PokePoke Champions Cup",
+    "date": "2026-04-14T06:00:00.000Z",
+    "format": "M-A",
+    "id": "69dd61af48d465883f712db3",
+    "players": 24,
+    "organizerId": 1138
+  },
+  {
+    "game": "VGC",
+    "name": "Moxie Monday Friendly",
+    "date": "2026-04-14T01:30:00.000Z",
+    "format": "M-A",
+    "id": "69dd94cf78b359b789d61be9",
+    "players": 24,
+    "organizerId": 708
+  },
+  {
+    "game": "VGC",
+    "name": "Pokepal Smackdown #136 (Champions) (Reg M-A)",
+    "date": "2026-04-13T23:30:00.000Z",
+    "format": "M-A",
+    "id": "69c6845ad478313a15a33e79",
+    "players": 69,
+    "organizerId": 893
+  },
+  {
+    "game": "VGC",
+    "name": "Intimidators Champions Challenge #1 - REG M-A",
+    "date": "2026-04-13T23:00:00.000Z",
+    "format": "M-A",
+    "id": "69dbdda978b359b789d60767",
+    "players": 31,
+    "organizerId": 1582
+  },
+  {
+    "game": "VGC",
+    "name": "Red Panda Rumble! Quickfire VGC Reg M-A Tour",
+    "date": "2026-04-13T22:40:00.000Z",
+    "format": "M-A",
+    "id": "69d9eb9a78b359b789d5e62f",
+    "players": 8,
+    "organizerId": 1107
+  },
+  {
+    "game": "VGC",
+    "name": "Devils Den Tournaments #73 x Champions Launch",
+    "date": "2026-04-13T21:30:00.000Z",
+    "format": "M-A",
+    "id": "69d9026e78b359b789d5d4d2",
+    "players": 53,
+    "organizerId": 1393
+  },
+  {
+    "game": "VGC",
+    "name": "Head Bussa's Hoedown#28 ChampionsReg M-A $25 1st",
+    "date": "2026-04-13T21:00:00.000Z",
+    "format": "M-A",
+    "id": "69dab39178b359b789d5f611",
+    "players": 96,
+    "organizerId": 1337
+  },
+  {
+    "game": "VGC",
+    "name": "🇮🇹💥 Champions Beginners Tournament 2VS2 💥🇮🇹",
+    "date": "2026-04-13T19:05:00.000Z",
+    "format": "M-A",
+    "id": "69daa39978b359b789d5f470",
+    "players": 27,
+    "organizerId": 1968
+  },
+  {
+    "game": "VGC",
+    "name": "VGCA Battle Hall #25",
+    "date": "2026-04-13T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69da6b3548d465883f70f9c8",
+    "players": 83,
+    "organizerId": 1527
+  },
+  {
+    "game": "VGC",
+    "name": "Champions Tour LEPE #1 (5€ to 1st)",
+    "date": "2026-04-13T15:45:00.000Z",
+    "format": "M-A",
+    "id": "69da4dcf48d465883f70f785",
+    "players": 80,
+    "organizerId": 1650
+  },
+  {
+    "game": "VGC",
+    "name": "The Dark League champions pop up! 5$usd",
+    "date": "2026-04-13T05:45:00.000Z",
+    "format": "M-A",
+    "id": "69d7eb93c734cfa1af2b61a1",
+    "players": 12,
+    "organizerId": 2045
+  },
+  {
+    "game": "VGC",
+    "name": "Extreme Speed Pokémon Champions",
+    "date": "2026-04-13T01:00:00.000Z",
+    "format": "M-A",
+    "id": "69d556980e548b5c2fbe5d30",
+    "players": 107,
+    "organizerId": 848
+  },
+  {
+    "game": "VGC",
+    "name": "Atun Champions Edition #1",
+    "date": "2026-04-12T21:30:00.000Z",
+    "format": "M-A",
+    "id": "69d993f948d465883f70ec7a",
+    "players": 33,
+    "organizerId": 801
+  },
+  {
+    "game": "VGC",
+    "name": "Chaos League Sunday Slam #96",
+    "date": "2026-04-12T21:00:00.000Z",
+    "format": "M-A",
+    "id": "69d99adf48d465883f70ecf2",
+    "players": 74,
+    "organizerId": 1254
+  },
+  {
+    "game": "VGC",
+    "name": "Flashback's Midwest Monthly - $100 PRIZE POT",
+    "date": "2026-04-12T19:00:00.000Z",
+    "format": "M-A",
+    "id": "69d5b3c3b9ec970afa605510",
+    "players": 18,
+    "organizerId": 2620
+  },
+  {
+    "game": "VGC",
+    "name": "POKÉMON CHAMPIONS Circuito VGC #1 | Z2 Gaming",
+    "date": "2026-04-12T15:00:00.000Z",
+    "format": "M-A",
+    "id": "69d549410e548b5c2fbe5c5d",
+    "players": 36,
+    "organizerId": 2585
+  },
+  {
+    "game": "VGC",
+    "name": "VGC Trainer school; CHAMPIONS FORMAT! (M/A)",
+    "date": "2026-04-12T13:00:00.000Z",
+    "format": "M-A",
+    "id": "69cd189b36f5b5c303dc4001",
+    "players": 138,
+    "organizerId": 672
+  },
+  {
+    "game": "VGC",
+    "name": "Torneo champions VGC Nagasaki",
+    "date": "2026-04-12T02:00:00.000Z",
+    "format": "M-A",
+    "id": "69dad13078b359b789d5f930",
+    "players": 7,
+    "organizerId": 2432
+  },
+  {
+    "game": "VGC",
+    "name": "Wide League Pokemon Champions SNR #84 $200 Prize",
+    "date": "2026-04-12T02:00:00.000Z",
+    "format": "M-A",
+    "id": "69d7114dc734cfa1af2b581d",
+    "players": 279,
+    "organizerId": 637
+  },
+  {
+    "game": "VGC",
+    "name": "Friendly #1 - Game Corner - Champions",
+    "date": "2026-04-11T20:00:00.000Z",
+    "format": "M-A",
+    "id": "69d6b50bb9ec970afa605e89",
+    "players": 23,
+    "organizerId": 674
+  },
+  {
+    "game": "VGC",
+    "name": "🏅CHAMPIONS🏅$50 USD | Guti x Trainers TCG",
+    "date": "2026-04-11T19:15:00.000Z",
+    "format": "M-A",
+    "id": "69d93d9e48d465883f70e661",
+    "players": 72,
+    "organizerId": 1990
+  },
+  {
+    "game": "VGC",
+    "name": "Pokemon Dominicana - Champion's League #1",
+    "date": "2026-04-11T18:00:00.000Z",
+    "format": "M-A",
+    "id": "69d7dfc1b9ec970afa606cdb",
+    "players": 14,
+    "organizerId": 826
+  },
+  {
+    "game": "VGC",
+    "name": "ZGG #1 Pokemon Champions VGC $200 Tournament!",
+    "date": "2026-04-11T16:15:00.000Z",
+    "format": "M-A",
+    "id": "69c44a46d478313a15a329c7",
+    "players": 207,
+    "organizerId": 2551
+  },
+  {
+    "game": "VGC",
+    "name": "POKEMON CHAMPAGNE- LO CAMBIA TODO N°1",
+    "date": "2026-04-11T14:00:00.000Z",
+    "format": "M-A",
+    "id": "69d7032eb9ec970afa60648b",
+    "players": 40,
+    "organizerId": 895
+  },
+  {
+    "game": "VGC",
+    "name": "VGCA Battle Hall #24 (CHAMPIONS)",
+    "date": "2026-04-11T14:00:00.000Z",
+    "format": "M-A",
+    "id": "69d65d2bc734cfa1af2b4dd7",
+    "players": 36,
+    "organizerId": 1527
+  },
+  {
+    "game": "VGC",
+    "name": "LIGA DA COMUNIDADE #1 (R$ 1.000 PRIZE POOL)",
+    "date": "2026-04-11T12:45:00.000Z",
+    "format": "M-A",
+    "id": "69c454a036f5b5c303dbd7eb",
+    "players": 275,
+    "organizerId": 919
+  },
+  {
+    "game": "VGC",
+    "name": "Pokémon Champions Reg M-A | CGCL Weekly #1",
+    "date": "2026-04-11T10:00:00.000Z",
+    "format": "M-A",
+    "id": "69c5237536f5b5c303dbdd10",
+    "players": 34,
+    "organizerId": 2232
+  },
+  {
+    "game": "VGC",
+    "name": "The Drywall Series - CHAMPIONS",
+    "date": "2026-04-11T00:30:00.000Z",
+    "format": "M-A",
+    "id": "69d6c9e7c734cfa1af2b52d6",
+    "players": 21,
+    "organizerId": 1437
+  },
+  {
+    "game": "VGC",
+    "name": "Pokemon Champions Challenge #1",
+    "date": "2026-04-11T00:00:00.000Z",
+    "format": "M-A",
+    "id": "69c8294d36f5b5c303dc036e",
+    "players": 203,
+    "organizerId": 2607
+  },
+  {
+    "game": "VGC",
+    "name": "Ratorneo #1 Apertura Champions 2026 | Reg MA | BO3",
+    "date": "2026-04-10T22:30:00.000Z",
+    "format": "M-A",
+    "id": "69c31dcf36f5b5c303dbce84",
+    "players": 32,
+    "organizerId": 2475
+  },
+  {
+    "game": "VGC",
+    "name": "Unova Champions League / POKÉMON CHAMPIONS / 30€",
+    "date": "2026-04-10T17:00:00.000Z",
+    "format": "M-A",
+    "id": "69d537610e548b5c2fbe5b3f",
+    "players": 100,
+    "organizerId": 956
+  },
+  {
+    "game": "VGC",
+    "name": "Talon's FIGHT CLUB #79 POKEMON CHAMPIONS",
+    "date": "2026-04-10T01:15:00.000Z",
+    "format": "M-A",
+    "id": "69c84a6036f5b5c303dc05f6",
+    "players": 122,
+    "organizerId": 1077
+  },
+  {
+    "game": "VGC",
+    "name": "TORNEO SALIDA POKÉMON CHAMPIONS",
+    "date": "2026-04-09T16:00:00.000Z",
+    "format": "M-A",
+    "id": "69d3c3270e548b5c2fbe4826",
+    "players": 173,
+    "organizerId": 1416
+  },
+  {
+    "game": "VGC",
+    "name": "Champions DAY ONE Take Two",
+    "date": "2026-04-09T00:30:00.000Z",
+    "format": "M-A",
+    "id": "69d6ee53c734cfa1af2b5573",
+    "players": 7,
+    "organizerId": 2620
+  },
+  {
+    "game": "VGC",
+    "name": "The Dark League DAY 1 CHAMPIONS!!!!!",
+    "date": "2026-04-08T21:15:00.000Z",
+    "format": "M-A",
+    "id": "69d69f9bb9ec970afa605d33",
+    "players": 10,
+    "organizerId": 2045
+  },
+  {
+    "game": "VGC",
+    "name": "Cel's Super Slam #15 Reg M-A DAY ONE EU TOUR",
+    "date": "2026-04-08T16:00:00.000Z",
+    "format": "M-A",
+    "id": "69d612bbb9ec970afa605854",
+    "players": 21,
+    "organizerId": 1409
+  }
+]

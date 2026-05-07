@@ -1,0 +1,4467 @@
+{
+	"meta": {
+		"generatedAt": "2026-05-06T23:32:30.170Z",
+		"count": 267,
+		"sourceFile": "data/pokemon-champions-list.json"
+	},
+	"pokemon": [
+		{
+			"slug": "sneasler",
+			"name": "Sneasler",
+			"types": [
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				},
+				{
+					"slug": "poison",
+					"name": "Poison"
+				}
+			],
+			"usageCount": 8501,
+			"spriteUrl": "/pokemon-champions/sprites/sneasler.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0903_00_0.webp",
+			"pagePath": "/pokemon/sneasler"
+		},
+		{
+			"slug": "incineroar",
+			"name": "Incineroar",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 7063,
+			"spriteUrl": "/pokemon-champions/sprites/incineroar.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0727_00_0.webp",
+			"pagePath": "/pokemon/incineroar"
+		},
+		{
+			"slug": "garchomp",
+			"name": "Garchomp",
+			"types": [
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				},
+				{
+					"slug": "ground",
+					"name": "Ground"
+				}
+			],
+			"usageCount": 6829,
+			"spriteUrl": "/pokemon-champions/sprites/garchomp.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0445_00_0.webp",
+			"pagePath": "/pokemon/garchomp"
+		},
+		{
+			"slug": "kingambit",
+			"name": "Kingambit",
+			"types": [
+				{
+					"slug": "dark",
+					"name": "Dark"
+				},
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 5348,
+			"spriteUrl": "/pokemon-champions/sprites/kingambit.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0983_00_0.webp",
+			"pagePath": "/pokemon/kingambit"
+		},
+		{
+			"slug": "basculegion",
+			"name": "Basculegion",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 4870,
+			"spriteUrl": "/pokemon-champions/sprites/basculegion.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0902_00_0.webp",
+			"pagePath": "/pokemon/basculegion"
+		},
+		{
+			"slug": "sinistcha",
+			"name": "Sinistcha",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 4712,
+			"spriteUrl": "/pokemon-champions/sprites/sinistcha.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_1013_00_0.webp",
+			"pagePath": "/pokemon/sinistcha"
+		},
+		{
+			"slug": "aerodactyl",
+			"name": "Aerodactyl",
+			"types": [
+				{
+					"slug": "rock",
+					"name": "Rock"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 3850,
+			"spriteUrl": "/pokemon-champions/sprites/aerodactyl.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0142_00_0.webp",
+			"pagePath": "/pokemon/aerodactyl"
+		},
+		{
+			"slug": "charizard",
+			"name": "Charizard",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 3348,
+			"spriteUrl": "/pokemon-champions/sprites/charizard.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0006_00_0.webp",
+			"pagePath": "/pokemon/charizard"
+		},
+		{
+			"slug": "rotom-wash-rotom",
+			"name": "Rotom [Wash Rotom]",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				},
+				{
+					"slug": "water",
+					"name": "Water"
+				}
+			],
+			"usageCount": 3000,
+			"spriteUrl": "/pokemon-champions/sprites/rotom-wash-rotom.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0479_02_0.webp",
+			"pagePath": "/pokemon/rotom-wash-rotom"
+		},
+		{
+			"slug": "floette-eternal-flower",
+			"name": "Floette [Eternal Flower]",
+			"types": [
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 2977,
+			"spriteUrl": "/pokemon-champions/sprites/floette-eternal-flower.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0670_05_0.webp",
+			"pagePath": "/pokemon/floette-eternal-flower"
+		},
+		{
+			"slug": "floette-mega-floette",
+			"name": "Floette [Mega Floette]",
+			"types": [
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 2954,
+			"spriteUrl": "/pokemon-champions/sprites/floette-mega-floette.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0670_06_0.webp",
+			"pagePath": "/pokemon/floette-mega-floette"
+		},
+		{
+			"slug": "charizard-mega-charizard-y",
+			"name": "Charizard [Mega Charizard Y]",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 2833,
+			"spriteUrl": "/pokemon-champions/sprites/charizard-mega-charizard-y.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0006_02_0.webp",
+			"pagePath": "/pokemon/charizard-mega-charizard-y"
+		},
+		{
+			"slug": "milotic",
+			"name": "Milotic",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				}
+			],
+			"usageCount": 2432,
+			"spriteUrl": "/pokemon-champions/sprites/milotic.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0350_00_0.webp",
+			"pagePath": "/pokemon/milotic"
+		},
+		{
+			"slug": "pelipper",
+			"name": "Pelipper",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 2429,
+			"spriteUrl": "/pokemon-champions/sprites/pelipper.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0279_00_0.webp",
+			"pagePath": "/pokemon/pelipper"
+		},
+		{
+			"slug": "whimsicott",
+			"name": "Whimsicott",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 2413,
+			"spriteUrl": "/pokemon-champions/sprites/whimsicott.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0547_00_0.webp",
+			"pagePath": "/pokemon/whimsicott"
+		},
+		{
+			"slug": "tyranitar",
+			"name": "Tyranitar",
+			"types": [
+				{
+					"slug": "rock",
+					"name": "Rock"
+				},
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 2386,
+			"spriteUrl": "/pokemon-champions/sprites/tyranitar.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0248_00_0.webp",
+			"pagePath": "/pokemon/tyranitar"
+		},
+		{
+			"slug": "farigiraf",
+			"name": "Farigiraf",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 2261,
+			"spriteUrl": "/pokemon-champions/sprites/farigiraf.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0981_00_0.webp",
+			"pagePath": "/pokemon/farigiraf"
+		},
+		{
+			"slug": "archaludon",
+			"name": "Archaludon",
+			"types": [
+				{
+					"slug": "steel",
+					"name": "Steel"
+				},
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				}
+			],
+			"usageCount": 2123,
+			"spriteUrl": "/pokemon-champions/sprites/archaludon.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_1018_00_0.webp",
+			"pagePath": "/pokemon/archaludon"
+		},
+		{
+			"slug": "venusaur",
+			"name": "Venusaur",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "poison",
+					"name": "Poison"
+				}
+			],
+			"usageCount": 1970,
+			"spriteUrl": "/pokemon-champions/sprites/venusaur.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0003_00_0.webp",
+			"pagePath": "/pokemon/venusaur"
+		},
+		{
+			"slug": "tyranitar-mega-tyranitar",
+			"name": "Tyranitar [Mega Tyranitar]",
+			"types": [
+				{
+					"slug": "rock",
+					"name": "Rock"
+				},
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 1729,
+			"spriteUrl": "/pokemon-champions/sprites/tyranitar-mega-tyranitar.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0248_01_0.webp",
+			"pagePath": "/pokemon/tyranitar-mega-tyranitar"
+		},
+		{
+			"slug": "froslass",
+			"name": "Froslass",
+			"types": [
+				{
+					"slug": "ice",
+					"name": "Ice"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 1726,
+			"spriteUrl": "/pokemon-champions/sprites/froslass.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0478_00_0.webp",
+			"pagePath": "/pokemon/froslass"
+		},
+		{
+			"slug": "froslass-mega-froslass",
+			"name": "Froslass [Mega Froslass]",
+			"types": [
+				{
+					"slug": "ice",
+					"name": "Ice"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 1702,
+			"spriteUrl": "/pokemon-champions/sprites/froslass-mega-froslass.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0478_01_0.webp",
+			"pagePath": "/pokemon/froslass-mega-froslass"
+		},
+		{
+			"slug": "dragonite",
+			"name": "Dragonite",
+			"types": [
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 1655,
+			"spriteUrl": "/pokemon-champions/sprites/dragonite.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0149_00_0.webp",
+			"pagePath": "/pokemon/dragonite"
+		},
+		{
+			"slug": "gengar",
+			"name": "Gengar",
+			"types": [
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				},
+				{
+					"slug": "poison",
+					"name": "Poison"
+				}
+			],
+			"usageCount": 1380,
+			"spriteUrl": "/pokemon-champions/sprites/gengar.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0094_00_0.webp",
+			"pagePath": "/pokemon/gengar"
+		},
+		{
+			"slug": "corviknight",
+			"name": "Corviknight",
+			"types": [
+				{
+					"slug": "flying",
+					"name": "Flying"
+				},
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 1336,
+			"spriteUrl": "/pokemon-champions/sprites/corviknight.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0823_00_0.webp",
+			"pagePath": "/pokemon/corviknight"
+		},
+		{
+			"slug": "aegislash",
+			"name": "Aegislash",
+			"types": [
+				{
+					"slug": "steel",
+					"name": "Steel"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 1299,
+			"spriteUrl": "/pokemon-champions/sprites/aegislash.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0681_00_0.webp",
+			"pagePath": "/pokemon/aegislash"
+		},
+		{
+			"slug": "delphox",
+			"name": "Delphox",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 1290,
+			"spriteUrl": "/pokemon-champions/sprites/delphox.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0655_00_0.webp",
+			"pagePath": "/pokemon/delphox"
+		},
+		{
+			"slug": "delphox-mega-delphox",
+			"name": "Delphox [Mega Delphox]",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 1277,
+			"spriteUrl": "/pokemon-champions/sprites/delphox-mega-delphox.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0655_01_0.webp",
+			"pagePath": "/pokemon/delphox-mega-delphox"
+		},
+		{
+			"slug": "gengar-mega-gengar",
+			"name": "Gengar [Mega Gengar]",
+			"types": [
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				},
+				{
+					"slug": "poison",
+					"name": "Poison"
+				}
+			],
+			"usageCount": 1264,
+			"spriteUrl": "/pokemon-champions/sprites/gengar-mega-gengar.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0094_01_0.webp",
+			"pagePath": "/pokemon/gengar-mega-gengar"
+		},
+		{
+			"slug": "meganium",
+			"name": "Meganium",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				}
+			],
+			"usageCount": 1230,
+			"spriteUrl": "/pokemon-champions/sprites/meganium.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0154_00_0.webp",
+			"pagePath": "/pokemon/meganium"
+		},
+		{
+			"slug": "meganium-mega-meganium",
+			"name": "Meganium [Mega Meganium]",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 1221,
+			"spriteUrl": "/pokemon-champions/sprites/meganium-mega-meganium.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0154_01_0.webp",
+			"pagePath": "/pokemon/meganium-mega-meganium"
+		},
+		{
+			"slug": "talonflame",
+			"name": "Talonflame",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 1188,
+			"spriteUrl": "/pokemon-champions/sprites/talonflame.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0663_00_0.webp",
+			"pagePath": "/pokemon/talonflame"
+		},
+		{
+			"slug": "maushold",
+			"name": "Maushold",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				}
+			],
+			"usageCount": 1156,
+			"spriteUrl": "/pokemon-champions/sprites/maushold.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0925_00_0.webp",
+			"pagePath": "/pokemon/maushold"
+		},
+		{
+			"slug": "dragonite-mega-dragonite",
+			"name": "Dragonite [Mega Dragonite]",
+			"types": [
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 1092,
+			"spriteUrl": "/pokemon-champions/sprites/dragonite-mega-dragonite.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0149_01_0.webp",
+			"pagePath": "/pokemon/dragonite-mega-dragonite"
+		},
+		{
+			"slug": "excadrill",
+			"name": "Excadrill",
+			"types": [
+				{
+					"slug": "ground",
+					"name": "Ground"
+				},
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 1080,
+			"spriteUrl": "/pokemon-champions/sprites/excadrill.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0530_00_0.webp",
+			"pagePath": "/pokemon/excadrill"
+		},
+		{
+			"slug": "scizor",
+			"name": "Scizor",
+			"types": [
+				{
+					"slug": "bug",
+					"name": "Bug"
+				},
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 1023,
+			"spriteUrl": "/pokemon-champions/sprites/scizor.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0212_00_0.webp",
+			"pagePath": "/pokemon/scizor"
+		},
+		{
+			"slug": "gardevoir",
+			"name": "Gardevoir",
+			"types": [
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				},
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 1014,
+			"spriteUrl": "/pokemon-champions/sprites/gardevoir.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0282_00_0.webp",
+			"pagePath": "/pokemon/gardevoir"
+		},
+		{
+			"slug": "kommo-o",
+			"name": "Kommo-o",
+			"types": [
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				},
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 937,
+			"spriteUrl": "/pokemon-champions/sprites/kommo-o.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0784_00_0.webp",
+			"pagePath": "/pokemon/kommo-o"
+		},
+		{
+			"slug": "primarina",
+			"name": "Primarina",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 907,
+			"spriteUrl": "/pokemon-champions/sprites/primarina.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0730_00_0.webp",
+			"pagePath": "/pokemon/primarina"
+		},
+		{
+			"slug": "scizor-mega-scizor",
+			"name": "Scizor [Mega Scizor]",
+			"types": [
+				{
+					"slug": "bug",
+					"name": "Bug"
+				},
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 862,
+			"spriteUrl": "/pokemon-champions/sprites/scizor-mega-scizor.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0212_01_0.webp",
+			"pagePath": "/pokemon/scizor-mega-scizor"
+		},
+		{
+			"slug": "gardevoir-mega-gardevoir",
+			"name": "Gardevoir [Mega Gardevoir]",
+			"types": [
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				},
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 812,
+			"spriteUrl": "/pokemon-champions/sprites/gardevoir-mega-gardevoir.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0282_01_0.webp",
+			"pagePath": "/pokemon/gardevoir-mega-gardevoir"
+		},
+		{
+			"slug": "aerodactyl-mega-aerodactyl",
+			"name": "Aerodactyl [Mega Aerodactyl]",
+			"types": [
+				{
+					"slug": "rock",
+					"name": "Rock"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 802,
+			"spriteUrl": "/pokemon-champions/sprites/aerodactyl-mega-aerodactyl.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0142_01_0.webp",
+			"pagePath": "/pokemon/aerodactyl-mega-aerodactyl"
+		},
+		{
+			"slug": "torkoal",
+			"name": "Torkoal",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 791,
+			"spriteUrl": "/pokemon-champions/sprites/torkoal.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0324_00_0.webp",
+			"pagePath": "/pokemon/torkoal"
+		},
+		{
+			"slug": "kangaskhan",
+			"name": "Kangaskhan",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				}
+			],
+			"usageCount": 741,
+			"spriteUrl": "/pokemon-champions/sprites/kangaskhan.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0115_00_0.webp",
+			"pagePath": "/pokemon/kangaskhan"
+		},
+		{
+			"slug": "kangaskhan-mega-kangaskhan",
+			"name": "Kangaskhan [Mega Kangaskhan]",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				}
+			],
+			"usageCount": 674,
+			"spriteUrl": "/pokemon-champions/sprites/kangaskhan-mega-kangaskhan.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0115_01_0.webp",
+			"pagePath": "/pokemon/kangaskhan-mega-kangaskhan"
+		},
+		{
+			"slug": "ninetales-alolan-form",
+			"name": "Ninetales [Alolan Form]",
+			"types": [
+				{
+					"slug": "ice",
+					"name": "Ice"
+				},
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 650,
+			"spriteUrl": "/pokemon-champions/sprites/ninetales-alolan-form.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0038_01_0.webp",
+			"pagePath": "/pokemon/ninetales-alolan-form"
+		},
+		{
+			"slug": "venusaur-mega-venusaur",
+			"name": "Venusaur [Mega Venusaur]",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "poison",
+					"name": "Poison"
+				}
+			],
+			"usageCount": 632,
+			"spriteUrl": "/pokemon-champions/sprites/venusaur-mega-venusaur.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0003_01_0.webp",
+			"pagePath": "/pokemon/venusaur-mega-venusaur"
+		},
+		{
+			"slug": "politoed",
+			"name": "Politoed",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				}
+			],
+			"usageCount": 622,
+			"spriteUrl": "/pokemon-champions/sprites/politoed.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0186_00_0.webp",
+			"pagePath": "/pokemon/politoed"
+		},
+		{
+			"slug": "sylveon",
+			"name": "Sylveon",
+			"types": [
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 604,
+			"spriteUrl": "/pokemon-champions/sprites/sylveon.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0700_00_0.webp",
+			"pagePath": "/pokemon/sylveon"
+		},
+		{
+			"slug": "glimmora",
+			"name": "Glimmora",
+			"types": [
+				{
+					"slug": "rock",
+					"name": "Rock"
+				},
+				{
+					"slug": "poison",
+					"name": "Poison"
+				}
+			],
+			"usageCount": 595,
+			"spriteUrl": "/pokemon-champions/sprites/glimmora.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0970_00_0.webp",
+			"pagePath": "/pokemon/glimmora"
+		},
+		{
+			"slug": "rotom-heat-rotom",
+			"name": "Rotom [Heat Rotom]",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				},
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 534,
+			"spriteUrl": "/pokemon-champions/sprites/rotom-heat-rotom.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0479_01_0.webp",
+			"pagePath": "/pokemon/rotom-heat-rotom"
+		},
+		{
+			"slug": "palafin",
+			"name": "Palafin",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				}
+			],
+			"usageCount": 510,
+			"spriteUrl": "/pokemon-champions/sprites/palafin.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0964_00_0.webp",
+			"pagePath": "/pokemon/palafin"
+		},
+		{
+			"slug": "sableye",
+			"name": "Sableye",
+			"types": [
+				{
+					"slug": "dark",
+					"name": "Dark"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 505,
+			"spriteUrl": "/pokemon-champions/sprites/sableye.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0302_00_0.webp",
+			"pagePath": "/pokemon/sableye"
+		},
+		{
+			"slug": "scovillain",
+			"name": "Scovillain",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 502,
+			"spriteUrl": "/pokemon-champions/sprites/scovillain.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0952_00_0.webp",
+			"pagePath": "/pokemon/scovillain"
+		},
+		{
+			"slug": "charizard-mega-charizard-x",
+			"name": "Charizard [Mega Charizard X]",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				}
+			],
+			"usageCount": 495,
+			"spriteUrl": "/pokemon-champions/sprites/charizard-mega-charizard-x.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0006_01_0.webp",
+			"pagePath": "/pokemon/charizard-mega-charizard-x"
+		},
+		{
+			"slug": "hydreigon",
+			"name": "Hydreigon",
+			"types": [
+				{
+					"slug": "dark",
+					"name": "Dark"
+				},
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				}
+			],
+			"usageCount": 481,
+			"spriteUrl": "/pokemon-champions/sprites/hydreigon.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0635_00_0.webp",
+			"pagePath": "/pokemon/hydreigon"
+		},
+		{
+			"slug": "gyarados",
+			"name": "Gyarados",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 478,
+			"spriteUrl": "/pokemon-champions/sprites/gyarados.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0130_00_0.webp",
+			"pagePath": "/pokemon/gyarados"
+		},
+		{
+			"slug": "dragapult",
+			"name": "Dragapult",
+			"types": [
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 477,
+			"spriteUrl": "/pokemon-champions/sprites/dragapult.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0887_00_0.webp",
+			"pagePath": "/pokemon/dragapult"
+		},
+		{
+			"slug": "clefable",
+			"name": "Clefable",
+			"types": [
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 471,
+			"spriteUrl": "/pokemon-champions/sprites/clefable.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0036_00_0.webp",
+			"pagePath": "/pokemon/clefable"
+		},
+		{
+			"slug": "arcanine-hisuian-form",
+			"name": "Arcanine [Hisuian Form]",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "rock",
+					"name": "Rock"
+				}
+			],
+			"usageCount": 452,
+			"spriteUrl": "/pokemon-champions/sprites/arcanine-hisuian-form.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0059_01_0.webp",
+			"pagePath": "/pokemon/arcanine-hisuian-form"
+		},
+		{
+			"slug": "blastoise",
+			"name": "Blastoise",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				}
+			],
+			"usageCount": 398,
+			"spriteUrl": "/pokemon-champions/sprites/blastoise.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0009_00_0.webp",
+			"pagePath": "/pokemon/blastoise"
+		},
+		{
+			"slug": "volcarona",
+			"name": "Volcarona",
+			"types": [
+				{
+					"slug": "bug",
+					"name": "Bug"
+				},
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 356,
+			"spriteUrl": "/pokemon-champions/sprites/volcarona.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0637_00_0.webp",
+			"pagePath": "/pokemon/volcarona"
+		},
+		{
+			"slug": "typhlosion-hisuian-form",
+			"name": "Typhlosion [Hisuian Form]",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 355,
+			"spriteUrl": "/pokemon-champions/sprites/typhlosion-hisuian-form.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0157_01_0.webp",
+			"pagePath": "/pokemon/typhlosion-hisuian-form"
+		},
+		{
+			"slug": "aggron",
+			"name": "Aggron",
+			"types": [
+				{
+					"slug": "steel",
+					"name": "Steel"
+				},
+				{
+					"slug": "rock",
+					"name": "Rock"
+				}
+			],
+			"usageCount": 353,
+			"spriteUrl": "/pokemon-champions/sprites/aggron.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0306_00_0.webp",
+			"pagePath": "/pokemon/aggron"
+		},
+		{
+			"slug": "blastoise-mega-blastoise",
+			"name": "Blastoise [Mega Blastoise]",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				}
+			],
+			"usageCount": 346,
+			"spriteUrl": "/pokemon-champions/sprites/blastoise-mega-blastoise.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0009_01_0.webp",
+			"pagePath": "/pokemon/blastoise-mega-blastoise"
+		},
+		{
+			"slug": "golurk",
+			"name": "Golurk",
+			"types": [
+				{
+					"slug": "ground",
+					"name": "Ground"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 343,
+			"spriteUrl": "/pokemon-champions/sprites/golurk.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0623_00_0.webp",
+			"pagePath": "/pokemon/golurk"
+		},
+		{
+			"slug": "aggron-mega-aggron",
+			"name": "Aggron [Mega Aggron]",
+			"types": [
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 339,
+			"spriteUrl": "/pokemon-champions/sprites/aggron-mega-aggron.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0306_01_0.webp",
+			"pagePath": "/pokemon/aggron-mega-aggron"
+		},
+		{
+			"slug": "golurk-mega-golurk",
+			"name": "Golurk [Mega Golurk]",
+			"types": [
+				{
+					"slug": "ground",
+					"name": "Ground"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 337,
+			"spriteUrl": "/pokemon-champions/sprites/golurk-mega-golurk.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0623_01_0.webp",
+			"pagePath": "/pokemon/golurk-mega-golurk"
+		},
+		{
+			"slug": "tsareena",
+			"name": "Tsareena",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				}
+			],
+			"usageCount": 318,
+			"spriteUrl": "/pokemon-champions/sprites/tsareena.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0763_00_0.webp",
+			"pagePath": "/pokemon/tsareena"
+		},
+		{
+			"slug": "mimikyu",
+			"name": "Mimikyu",
+			"types": [
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				},
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 297,
+			"spriteUrl": "/pokemon-champions/sprites/mimikyu.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0778_00_0.webp",
+			"pagePath": "/pokemon/mimikyu"
+		},
+		{
+			"slug": "meowscarada",
+			"name": "Meowscarada",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 277,
+			"spriteUrl": "/pokemon-champions/sprites/meowscarada.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0908_00_0.webp",
+			"pagePath": "/pokemon/meowscarada"
+		},
+		{
+			"slug": "starmie",
+			"name": "Starmie",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 274,
+			"spriteUrl": "/pokemon-champions/sprites/starmie.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0121_00_0.webp",
+			"pagePath": "/pokemon/starmie"
+		},
+		{
+			"slug": "starmie-mega-starmie",
+			"name": "Starmie [Mega Starmie]",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 265,
+			"spriteUrl": "/pokemon-champions/sprites/starmie-mega-starmie.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0121_01_0.webp",
+			"pagePath": "/pokemon/starmie-mega-starmie"
+		},
+		{
+			"slug": "zoroark-hisuian-form",
+			"name": "Zoroark [Hisuian Form]",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 260,
+			"spriteUrl": "/pokemon-champions/sprites/zoroark-hisuian-form.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0571_01_0.webp",
+			"pagePath": "/pokemon/zoroark-hisuian-form"
+		},
+		{
+			"slug": "hatterene",
+			"name": "Hatterene",
+			"types": [
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				},
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 256,
+			"spriteUrl": "/pokemon-champions/sprites/hatterene.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0858_00_0.webp",
+			"pagePath": "/pokemon/hatterene"
+		},
+		{
+			"slug": "lucario",
+			"name": "Lucario",
+			"types": [
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				},
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 248,
+			"spriteUrl": "/pokemon-champions/sprites/lucario.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0448_00_0.webp",
+			"pagePath": "/pokemon/lucario"
+		},
+		{
+			"slug": "crabominable",
+			"name": "Crabominable",
+			"types": [
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				},
+				{
+					"slug": "ice",
+					"name": "Ice"
+				}
+			],
+			"usageCount": 231,
+			"spriteUrl": "/pokemon-champions/sprites/crabominable.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0740_00_0.webp",
+			"pagePath": "/pokemon/crabominable"
+		},
+		{
+			"slug": "crabominable-mega-crabominable",
+			"name": "Crabominable [Mega Crabominable]",
+			"types": [
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				},
+				{
+					"slug": "ice",
+					"name": "Ice"
+				}
+			],
+			"usageCount": 226,
+			"spriteUrl": "/pokemon-champions/sprites/crabominable-mega-crabominable.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0740_01_0.webp",
+			"pagePath": "/pokemon/crabominable-mega-crabominable"
+		},
+		{
+			"slug": "gallade",
+			"name": "Gallade",
+			"types": [
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				},
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 215,
+			"spriteUrl": "/pokemon-champions/sprites/gallade.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0475_00_0.webp",
+			"pagePath": "/pokemon/gallade"
+		},
+		{
+			"slug": "gyarados-mega-gyarados",
+			"name": "Gyarados [Mega Gyarados]",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 213,
+			"spriteUrl": "/pokemon-champions/sprites/gyarados-mega-gyarados.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0130_01_0.webp",
+			"pagePath": "/pokemon/gyarados-mega-gyarados"
+		},
+		{
+			"slug": "lucario-mega-lucario",
+			"name": "Lucario [Mega Lucario]",
+			"types": [
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				},
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 195,
+			"spriteUrl": "/pokemon-champions/sprites/lucario-mega-lucario.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0448_01_0.webp",
+			"pagePath": "/pokemon/lucario-mega-lucario"
+		},
+		{
+			"slug": "tinkaton",
+			"name": "Tinkaton",
+			"types": [
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				},
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 193,
+			"spriteUrl": "/pokemon-champions/sprites/tinkaton.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0959_00_0.webp",
+			"pagePath": "/pokemon/tinkaton"
+		},
+		{
+			"slug": "orthworm",
+			"name": "Orthworm",
+			"types": [
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 192,
+			"spriteUrl": "/pokemon-champions/sprites/orthworm.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0968_00_0.webp",
+			"pagePath": "/pokemon/orthworm"
+		},
+		{
+			"slug": "tauros-paldean-form-aqua-breed",
+			"name": "Tauros [Paldean Form (Aqua Breed)]",
+			"types": [
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				},
+				{
+					"slug": "water",
+					"name": "Water"
+				}
+			],
+			"usageCount": 190,
+			"spriteUrl": "/pokemon-champions/sprites/tauros-paldean-form-aqua-breed.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0128_03_0.webp",
+			"pagePath": "/pokemon/tauros-paldean-form-aqua-breed"
+		},
+		{
+			"slug": "drampa",
+			"name": "Drampa",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				},
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				}
+			],
+			"usageCount": 189,
+			"spriteUrl": "/pokemon-champions/sprites/drampa.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0780_00_0.webp",
+			"pagePath": "/pokemon/drampa"
+		},
+		{
+			"slug": "garchomp-mega-garchomp",
+			"name": "Garchomp [Mega Garchomp]",
+			"types": [
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				},
+				{
+					"slug": "ground",
+					"name": "Ground"
+				}
+			],
+			"usageCount": 183,
+			"spriteUrl": "/pokemon-champions/sprites/garchomp-mega-garchomp.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0445_01_0.webp",
+			"pagePath": "/pokemon/garchomp-mega-garchomp"
+		},
+		{
+			"slug": "lopunny",
+			"name": "Lopunny",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				}
+			],
+			"usageCount": 180,
+			"spriteUrl": "/pokemon-champions/sprites/lopunny.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0428_00_0.webp",
+			"pagePath": "/pokemon/lopunny"
+		},
+		{
+			"slug": "lopunny-mega-lopunny",
+			"name": "Lopunny [Mega Lopunny]",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				},
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 179,
+			"spriteUrl": "/pokemon-champions/sprites/lopunny-mega-lopunny.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0428_01_0.webp",
+			"pagePath": "/pokemon/lopunny-mega-lopunny"
+		},
+		{
+			"slug": "oranguru",
+			"name": "Oranguru",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 163,
+			"spriteUrl": "/pokemon-champions/sprites/oranguru.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0765_00_0.webp",
+			"pagePath": "/pokemon/oranguru"
+		},
+		{
+			"slug": "ceruledge",
+			"name": "Ceruledge",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 152,
+			"spriteUrl": "/pokemon-champions/sprites/ceruledge.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0937_00_0.webp",
+			"pagePath": "/pokemon/ceruledge"
+		},
+		{
+			"slug": "drampa-mega-drampa",
+			"name": "Drampa [Mega Drampa]",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				},
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				}
+			],
+			"usageCount": 152,
+			"spriteUrl": "/pokemon-champions/sprites/drampa-mega-drampa.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0780_01_0.webp",
+			"pagePath": "/pokemon/drampa-mega-drampa"
+		},
+		{
+			"slug": "azumarill",
+			"name": "Azumarill",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 150,
+			"spriteUrl": "/pokemon-champions/sprites/azumarill.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0184_00_0.webp",
+			"pagePath": "/pokemon/azumarill"
+		},
+		{
+			"slug": "rotom-frost-rotom",
+			"name": "Rotom [Frost Rotom]",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				},
+				{
+					"slug": "ice",
+					"name": "Ice"
+				}
+			],
+			"usageCount": 148,
+			"spriteUrl": "/pokemon-champions/sprites/rotom-frost-rotom.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0479_03_0.webp",
+			"pagePath": "/pokemon/rotom-frost-rotom"
+		},
+		{
+			"slug": "camerupt",
+			"name": "Camerupt",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "ground",
+					"name": "Ground"
+				}
+			],
+			"usageCount": 147,
+			"spriteUrl": "/pokemon-champions/sprites/camerupt.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0323_00_0.webp",
+			"pagePath": "/pokemon/camerupt"
+		},
+		{
+			"slug": "manectric",
+			"name": "Manectric",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				}
+			],
+			"usageCount": 144,
+			"spriteUrl": "/pokemon-champions/sprites/manectric.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0310_00_0.webp",
+			"pagePath": "/pokemon/manectric"
+		},
+		{
+			"slug": "empoleon",
+			"name": "Empoleon",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 142,
+			"spriteUrl": "/pokemon-champions/sprites/empoleon.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0395_00_0.webp",
+			"pagePath": "/pokemon/empoleon"
+		},
+		{
+			"slug": "camerupt-mega-camerupt",
+			"name": "Camerupt [Mega Camerupt]",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "ground",
+					"name": "Ground"
+				}
+			],
+			"usageCount": 141,
+			"spriteUrl": "/pokemon-champions/sprites/camerupt-mega-camerupt.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0323_01_0.webp",
+			"pagePath": "/pokemon/camerupt-mega-camerupt"
+		},
+		{
+			"slug": "araquanid",
+			"name": "Araquanid",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "bug",
+					"name": "Bug"
+				}
+			],
+			"usageCount": 138,
+			"spriteUrl": "/pokemon-champions/sprites/araquanid.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0752_00_0.webp",
+			"pagePath": "/pokemon/araquanid"
+		},
+		{
+			"slug": "arcanine",
+			"name": "Arcanine",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 138,
+			"spriteUrl": "/pokemon-champions/sprites/arcanine.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0059_00_0.webp",
+			"pagePath": "/pokemon/arcanine"
+		},
+		{
+			"slug": "greninja",
+			"name": "Greninja",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 133,
+			"spriteUrl": "/pokemon-champions/sprites/greninja.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0658_00_0.webp",
+			"pagePath": "/pokemon/greninja"
+		},
+		{
+			"slug": "raichu",
+			"name": "Raichu",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				}
+			],
+			"usageCount": 133,
+			"spriteUrl": "/pokemon-champions/sprites/raichu.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0026_00_0.webp",
+			"pagePath": "/pokemon/raichu"
+		},
+		{
+			"slug": "mamoswine",
+			"name": "Mamoswine",
+			"types": [
+				{
+					"slug": "ice",
+					"name": "Ice"
+				},
+				{
+					"slug": "ground",
+					"name": "Ground"
+				}
+			],
+			"usageCount": 132,
+			"spriteUrl": "/pokemon-champions/sprites/mamoswine.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0473_00_0.webp",
+			"pagePath": "/pokemon/mamoswine"
+		},
+		{
+			"slug": "manectric-mega-manectric",
+			"name": "Manectric [Mega Manectric]",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				}
+			],
+			"usageCount": 132,
+			"spriteUrl": "/pokemon-champions/sprites/manectric-mega-manectric.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0310_01_0.webp",
+			"pagePath": "/pokemon/manectric-mega-manectric"
+		},
+		{
+			"slug": "feraligatr",
+			"name": "Feraligatr",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				}
+			],
+			"usageCount": 123,
+			"spriteUrl": "/pokemon-champions/sprites/feraligatr.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0160_00_0.webp",
+			"pagePath": "/pokemon/feraligatr"
+		},
+		{
+			"slug": "skarmory",
+			"name": "Skarmory",
+			"types": [
+				{
+					"slug": "steel",
+					"name": "Steel"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 123,
+			"spriteUrl": "/pokemon-champions/sprites/skarmory.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0227_00_0.webp",
+			"pagePath": "/pokemon/skarmory"
+		},
+		{
+			"slug": "chandelure",
+			"name": "Chandelure",
+			"types": [
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				},
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 118,
+			"spriteUrl": "/pokemon-champions/sprites/chandelure.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0609_00_0.webp",
+			"pagePath": "/pokemon/chandelure"
+		},
+		{
+			"slug": "feraligatr-mega-feraligatr",
+			"name": "Feraligatr [Mega Feraligatr]",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				}
+			],
+			"usageCount": 116,
+			"spriteUrl": "/pokemon-champions/sprites/feraligatr-mega-feraligatr.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0160_01_0.webp",
+			"pagePath": "/pokemon/feraligatr-mega-feraligatr"
+		},
+		{
+			"slug": "skarmory-mega-skarmory",
+			"name": "Skarmory [Mega Skarmory]",
+			"types": [
+				{
+					"slug": "steel",
+					"name": "Steel"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 116,
+			"spriteUrl": "/pokemon-champions/sprites/skarmory-mega-skarmory.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0227_01_0.webp",
+			"pagePath": "/pokemon/skarmory-mega-skarmory"
+		},
+		{
+			"slug": "meowstic",
+			"name": "Meowstic",
+			"types": [
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 113,
+			"spriteUrl": "/pokemon-champions/sprites/meowstic.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0678_00_0.webp",
+			"pagePath": "/pokemon/meowstic"
+		},
+		{
+			"slug": "weavile",
+			"name": "Weavile",
+			"types": [
+				{
+					"slug": "dark",
+					"name": "Dark"
+				},
+				{
+					"slug": "ice",
+					"name": "Ice"
+				}
+			],
+			"usageCount": 107,
+			"spriteUrl": "/pokemon-champions/sprites/weavile.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0461_00_0.webp",
+			"pagePath": "/pokemon/weavile"
+		},
+		{
+			"slug": "conkeldurr",
+			"name": "Conkeldurr",
+			"types": [
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 104,
+			"spriteUrl": "/pokemon-champions/sprites/conkeldurr.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0534_00_0.webp",
+			"pagePath": "/pokemon/conkeldurr"
+		},
+		{
+			"slug": "vivillon",
+			"name": "Vivillon",
+			"types": [
+				{
+					"slug": "bug",
+					"name": "Bug"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 101,
+			"spriteUrl": "/pokemon-champions/sprites/vivillon.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0666_00_0.webp",
+			"pagePath": "/pokemon/vivillon"
+		},
+		{
+			"slug": "heliolisk",
+			"name": "Heliolisk",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				},
+				{
+					"slug": "normal",
+					"name": "Normal"
+				}
+			],
+			"usageCount": 93,
+			"spriteUrl": "/pokemon-champions/sprites/heliolisk.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0695_00_0.webp",
+			"pagePath": "/pokemon/heliolisk"
+		},
+		{
+			"slug": "chesnaught",
+			"name": "Chesnaught",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 92,
+			"spriteUrl": "/pokemon-champions/sprites/chesnaught.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0652_00_0.webp",
+			"pagePath": "/pokemon/chesnaught"
+		},
+		{
+			"slug": "rotom-mow-rotom",
+			"name": "Rotom [Mow Rotom]",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				},
+				{
+					"slug": "grass",
+					"name": "Grass"
+				}
+			],
+			"usageCount": 88,
+			"spriteUrl": "/pokemon-champions/sprites/rotom-mow-rotom.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0479_05_0.webp",
+			"pagePath": "/pokemon/rotom-mow-rotom"
+		},
+		{
+			"slug": "greninja-mega-greninja",
+			"name": "Greninja [Mega Greninja]",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 86,
+			"spriteUrl": "/pokemon-champions/sprites/greninja-mega-greninja.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0658_03_0.webp",
+			"pagePath": "/pokemon/greninja-mega-greninja"
+		},
+		{
+			"slug": "klefki",
+			"name": "Klefki",
+			"types": [
+				{
+					"slug": "steel",
+					"name": "Steel"
+				},
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 85,
+			"spriteUrl": "/pokemon-champions/sprites/klefki.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0707_00_0.webp",
+			"pagePath": "/pokemon/klefki"
+		},
+		{
+			"slug": "chesnaught-mega-chesnaught",
+			"name": "Chesnaught [Mega Chesnaught]",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 82,
+			"spriteUrl": "/pokemon-champions/sprites/chesnaught-mega-chesnaught.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0652_01_0.webp",
+			"pagePath": "/pokemon/chesnaught-mega-chesnaught"
+		},
+		{
+			"slug": "armarouge",
+			"name": "Armarouge",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 81,
+			"spriteUrl": "/pokemon-champions/sprites/armarouge.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0936_00_0.webp",
+			"pagePath": "/pokemon/armarouge"
+		},
+		{
+			"slug": "glimmora-mega-glimmora",
+			"name": "Glimmora [Mega Glimmora]",
+			"types": [
+				{
+					"slug": "rock",
+					"name": "Rock"
+				},
+				{
+					"slug": "poison",
+					"name": "Poison"
+				}
+			],
+			"usageCount": 77,
+			"spriteUrl": "/pokemon-champions/sprites/glimmora-mega-glimmora.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0970_01_0.webp",
+			"pagePath": "/pokemon/glimmora-mega-glimmora"
+		},
+		{
+			"slug": "hawlucha",
+			"name": "Hawlucha",
+			"types": [
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 75,
+			"spriteUrl": "/pokemon-champions/sprites/hawlucha.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0701_00_0.webp",
+			"pagePath": "/pokemon/hawlucha"
+		},
+		{
+			"slug": "altaria",
+			"name": "Altaria",
+			"types": [
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 74,
+			"spriteUrl": "/pokemon-champions/sprites/altaria.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0334_00_0.webp",
+			"pagePath": "/pokemon/altaria"
+		},
+		{
+			"slug": "umbreon",
+			"name": "Umbreon",
+			"types": [
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 74,
+			"spriteUrl": "/pokemon-champions/sprites/umbreon.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0197_00_0.webp",
+			"pagePath": "/pokemon/umbreon"
+		},
+		{
+			"slug": "chandelure-mega-chandelure",
+			"name": "Chandelure [Mega Chandelure]",
+			"types": [
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				},
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 73,
+			"spriteUrl": "/pokemon-champions/sprites/chandelure-mega-chandelure.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0609_01_0.webp",
+			"pagePath": "/pokemon/chandelure-mega-chandelure"
+		},
+		{
+			"slug": "snorlax",
+			"name": "Snorlax",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				}
+			],
+			"usageCount": 72,
+			"spriteUrl": "/pokemon-champions/sprites/snorlax.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0143_00_0.webp",
+			"pagePath": "/pokemon/snorlax"
+		},
+		{
+			"slug": "jolteon",
+			"name": "Jolteon",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				}
+			],
+			"usageCount": 70,
+			"spriteUrl": "/pokemon-champions/sprites/jolteon.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0135_00_0.webp",
+			"pagePath": "/pokemon/jolteon"
+		},
+		{
+			"slug": "ampharos",
+			"name": "Ampharos",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				}
+			],
+			"usageCount": 69,
+			"spriteUrl": "/pokemon-champions/sprites/ampharos.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0181_00_0.webp",
+			"pagePath": "/pokemon/ampharos"
+		},
+		{
+			"slug": "gallade-mega-gallade",
+			"name": "Gallade [Mega Gallade]",
+			"types": [
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				},
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 69,
+			"spriteUrl": "/pokemon-champions/sprites/gallade-mega-gallade.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0475_01_0.webp",
+			"pagePath": "/pokemon/gallade-mega-gallade"
+		},
+		{
+			"slug": "goodra-hisuian-form",
+			"name": "Goodra [Hisuian Form]",
+			"types": [
+				{
+					"slug": "steel",
+					"name": "Steel"
+				},
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				}
+			],
+			"usageCount": 69,
+			"spriteUrl": "/pokemon-champions/sprites/goodra-hisuian-form.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0706_01_0.webp",
+			"pagePath": "/pokemon/goodra-hisuian-form"
+		},
+		{
+			"slug": "ampharos-mega-ampharos",
+			"name": "Ampharos [Mega Ampharos]",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				},
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				}
+			],
+			"usageCount": 67,
+			"spriteUrl": "/pokemon-champions/sprites/ampharos-mega-ampharos.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0181_01_0.webp",
+			"pagePath": "/pokemon/ampharos-mega-ampharos"
+		},
+		{
+			"slug": "kleavor",
+			"name": "Kleavor",
+			"types": [
+				{
+					"slug": "bug",
+					"name": "Bug"
+				},
+				{
+					"slug": "rock",
+					"name": "Rock"
+				}
+			],
+			"usageCount": 66,
+			"spriteUrl": "/pokemon-champions/sprites/kleavor.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0900_00_0.webp",
+			"pagePath": "/pokemon/kleavor"
+		},
+		{
+			"slug": "alakazam",
+			"name": "Alakazam",
+			"types": [
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 65,
+			"spriteUrl": "/pokemon-champions/sprites/alakazam.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0065_00_0.webp",
+			"pagePath": "/pokemon/alakazam"
+		},
+		{
+			"slug": "espathra",
+			"name": "Espathra",
+			"types": [
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 64,
+			"spriteUrl": "/pokemon-champions/sprites/espathra.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0956_00_0.webp",
+			"pagePath": "/pokemon/espathra"
+		},
+		{
+			"slug": "samurott-hisuian-form",
+			"name": "Samurott [Hisuian Form]",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 62,
+			"spriteUrl": "/pokemon-champions/sprites/samurott-hisuian-form.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0503_01_0.webp",
+			"pagePath": "/pokemon/samurott-hisuian-form"
+		},
+		{
+			"slug": "abomasnow",
+			"name": "Abomasnow",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "ice",
+					"name": "Ice"
+				}
+			],
+			"usageCount": 61,
+			"spriteUrl": "/pokemon-champions/sprites/abomasnow.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0460_00_0.webp",
+			"pagePath": "/pokemon/abomasnow"
+		},
+		{
+			"slug": "slowking-galarian-form",
+			"name": "Slowking [Galarian Form]",
+			"types": [
+				{
+					"slug": "poison",
+					"name": "Poison"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 60,
+			"spriteUrl": "/pokemon-champions/sprites/slowking-galarian-form.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0199_01_0.webp",
+			"pagePath": "/pokemon/slowking-galarian-form"
+		},
+		{
+			"slug": "vanilluxe",
+			"name": "Vanilluxe",
+			"types": [
+				{
+					"slug": "ice",
+					"name": "Ice"
+				}
+			],
+			"usageCount": 60,
+			"spriteUrl": "/pokemon-champions/sprites/vanilluxe.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0584_00_0.webp",
+			"pagePath": "/pokemon/vanilluxe"
+		},
+		{
+			"slug": "hawlucha-mega-hawlucha",
+			"name": "Hawlucha [Mega Hawlucha]",
+			"types": [
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 59,
+			"spriteUrl": "/pokemon-champions/sprites/hawlucha-mega-hawlucha.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0701_01_0.webp",
+			"pagePath": "/pokemon/hawlucha-mega-hawlucha"
+		},
+		{
+			"slug": "excadrill-mega-excadrill",
+			"name": "Excadrill [Mega Excadrill]",
+			"types": [
+				{
+					"slug": "ground",
+					"name": "Ground"
+				},
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 54,
+			"spriteUrl": "/pokemon-champions/sprites/excadrill-mega-excadrill.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0530_01_0.webp",
+			"pagePath": "/pokemon/excadrill-mega-excadrill"
+		},
+		{
+			"slug": "abomasnow-mega-abomasnow",
+			"name": "Abomasnow [Mega Abomasnow]",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "ice",
+					"name": "Ice"
+				}
+			],
+			"usageCount": 53,
+			"spriteUrl": "/pokemon-champions/sprites/abomasnow-mega-abomasnow.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0460_01_0.webp",
+			"pagePath": "/pokemon/abomasnow-mega-abomasnow"
+		},
+		{
+			"slug": "decidueye-hisuian-form",
+			"name": "Decidueye [Hisuian Form]",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 53,
+			"spriteUrl": "/pokemon-champions/sprites/decidueye-hisuian-form.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0724_01_0.webp",
+			"pagePath": "/pokemon/decidueye-hisuian-form"
+		},
+		{
+			"slug": "rhyperior",
+			"name": "Rhyperior",
+			"types": [
+				{
+					"slug": "ground",
+					"name": "Ground"
+				},
+				{
+					"slug": "rock",
+					"name": "Rock"
+				}
+			],
+			"usageCount": 53,
+			"spriteUrl": "/pokemon-champions/sprites/rhyperior.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0464_00_0.webp",
+			"pagePath": "/pokemon/rhyperior"
+		},
+		{
+			"slug": "clefable-mega-clefable",
+			"name": "Clefable [Mega Clefable]",
+			"types": [
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 52,
+			"spriteUrl": "/pokemon-champions/sprites/clefable-mega-clefable.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0036_01_0.webp",
+			"pagePath": "/pokemon/clefable-mega-clefable"
+		},
+		{
+			"slug": "slowbro",
+			"name": "Slowbro",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 52,
+			"spriteUrl": "/pokemon-champions/sprites/slowbro.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0080_00_0.webp",
+			"pagePath": "/pokemon/slowbro"
+		},
+		{
+			"slug": "glaceon",
+			"name": "Glaceon",
+			"types": [
+				{
+					"slug": "ice",
+					"name": "Ice"
+				}
+			],
+			"usageCount": 50,
+			"spriteUrl": "/pokemon-champions/sprites/glaceon.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0471_00_0.webp",
+			"pagePath": "/pokemon/glaceon"
+		},
+		{
+			"slug": "scovillain-mega-scovillain",
+			"name": "Scovillain [Mega Scovillain]",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 49,
+			"spriteUrl": "/pokemon-champions/sprites/scovillain-mega-scovillain.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0952_01_0.webp",
+			"pagePath": "/pokemon/scovillain-mega-scovillain"
+		},
+		{
+			"slug": "garganacl",
+			"name": "Garganacl",
+			"types": [
+				{
+					"slug": "rock",
+					"name": "Rock"
+				}
+			],
+			"usageCount": 48,
+			"spriteUrl": "/pokemon-champions/sprites/garganacl.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0934_00_0.webp",
+			"pagePath": "/pokemon/garganacl"
+		},
+		{
+			"slug": "pikachu",
+			"name": "Pikachu",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				}
+			],
+			"usageCount": 46,
+			"spriteUrl": "/pokemon-champions/sprites/pikachu.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0025_00_0.webp",
+			"pagePath": "/pokemon/pikachu"
+		},
+		{
+			"slug": "lycanroc",
+			"name": "Lycanroc",
+			"types": [
+				{
+					"slug": "rock",
+					"name": "Rock"
+				}
+			],
+			"usageCount": 45,
+			"spriteUrl": "/pokemon-champions/sprites/lycanroc.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0745_00_0.webp",
+			"pagePath": "/pokemon/lycanroc"
+		},
+		{
+			"slug": "cofagrigus",
+			"name": "Cofagrigus",
+			"types": [
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 44,
+			"spriteUrl": "/pokemon-champions/sprites/cofagrigus.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0563_00_0.webp",
+			"pagePath": "/pokemon/cofagrigus"
+		},
+		{
+			"slug": "bellibolt",
+			"name": "Bellibolt",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				}
+			],
+			"usageCount": 43,
+			"spriteUrl": "/pokemon-champions/sprites/bellibolt.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0939_00_0.webp",
+			"pagePath": "/pokemon/bellibolt"
+		},
+		{
+			"slug": "chimecho",
+			"name": "Chimecho",
+			"types": [
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 42,
+			"spriteUrl": "/pokemon-champions/sprites/chimecho.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0358_00_0.webp",
+			"pagePath": "/pokemon/chimecho"
+		},
+		{
+			"slug": "alakazam-mega-alakazam",
+			"name": "Alakazam [Mega Alakazam]",
+			"types": [
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 41,
+			"spriteUrl": "/pokemon-champions/sprites/alakazam-mega-alakazam.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0065_01_0.webp",
+			"pagePath": "/pokemon/alakazam-mega-alakazam"
+		},
+		{
+			"slug": "chimecho-mega-chimecho",
+			"name": "Chimecho [Mega Chimecho]",
+			"types": [
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				},
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 41,
+			"spriteUrl": "/pokemon-champions/sprites/chimecho-mega-chimecho.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0358_01_0.webp",
+			"pagePath": "/pokemon/chimecho-mega-chimecho"
+		},
+		{
+			"slug": "krookodile",
+			"name": "Krookodile",
+			"types": [
+				{
+					"slug": "ground",
+					"name": "Ground"
+				},
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 41,
+			"spriteUrl": "/pokemon-champions/sprites/krookodile.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0553_00_0.webp",
+			"pagePath": "/pokemon/krookodile"
+		},
+		{
+			"slug": "quaquaval",
+			"name": "Quaquaval",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 40,
+			"spriteUrl": "/pokemon-champions/sprites/quaquaval.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0914_00_0.webp",
+			"pagePath": "/pokemon/quaquaval"
+		},
+		{
+			"slug": "basculegion-female",
+			"name": "Basculegion [Female]",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 39,
+			"spriteUrl": "/pokemon-champions/sprites/basculegion-female.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0902_01_0.webp",
+			"pagePath": "/pokemon/basculegion-female"
+		},
+		{
+			"slug": "hydrapple",
+			"name": "Hydrapple",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				}
+			],
+			"usageCount": 39,
+			"spriteUrl": "/pokemon-champions/sprites/hydrapple.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_1019_00_0.webp",
+			"pagePath": "/pokemon/hydrapple"
+		},
+		{
+			"slug": "slowbro-mega-slowbro",
+			"name": "Slowbro [Mega Slowbro]",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 38,
+			"spriteUrl": "/pokemon-champions/sprites/slowbro-mega-slowbro.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0080_01_0.webp",
+			"pagePath": "/pokemon/slowbro-mega-slowbro"
+		},
+		{
+			"slug": "skeledirge",
+			"name": "Skeledirge",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 37,
+			"spriteUrl": "/pokemon-champions/sprites/skeledirge.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0911_00_0.webp",
+			"pagePath": "/pokemon/skeledirge"
+		},
+		{
+			"slug": "machamp",
+			"name": "Machamp",
+			"types": [
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 36,
+			"spriteUrl": "/pokemon-champions/sprites/machamp.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0068_00_0.webp",
+			"pagePath": "/pokemon/machamp"
+		},
+		{
+			"slug": "ditto",
+			"name": "Ditto",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				}
+			],
+			"usageCount": 33,
+			"spriteUrl": "/pokemon-champions/sprites/ditto.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0132_00_0.webp",
+			"pagePath": "/pokemon/ditto"
+		},
+		{
+			"slug": "steelix",
+			"name": "Steelix",
+			"types": [
+				{
+					"slug": "steel",
+					"name": "Steel"
+				},
+				{
+					"slug": "ground",
+					"name": "Ground"
+				}
+			],
+			"usageCount": 33,
+			"spriteUrl": "/pokemon-champions/sprites/steelix.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0208_00_0.webp",
+			"pagePath": "/pokemon/steelix"
+		},
+		{
+			"slug": "gliscor",
+			"name": "Gliscor",
+			"types": [
+				{
+					"slug": "ground",
+					"name": "Ground"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 32,
+			"spriteUrl": "/pokemon-champions/sprites/gliscor.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0472_00_0.webp",
+			"pagePath": "/pokemon/gliscor"
+		},
+		{
+			"slug": "victreebel",
+			"name": "Victreebel",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "poison",
+					"name": "Poison"
+				}
+			],
+			"usageCount": 32,
+			"spriteUrl": "/pokemon-champions/sprites/victreebel.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0071_00_0.webp",
+			"pagePath": "/pokemon/victreebel"
+		},
+		{
+			"slug": "serperior",
+			"name": "Serperior",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				}
+			],
+			"usageCount": 31,
+			"spriteUrl": "/pokemon-champions/sprites/serperior.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0497_00_0.webp",
+			"pagePath": "/pokemon/serperior"
+		},
+		{
+			"slug": "lycanroc-dusk-form",
+			"name": "Lycanroc [Dusk Form]",
+			"types": [
+				{
+					"slug": "rock",
+					"name": "Rock"
+				}
+			],
+			"usageCount": 30,
+			"spriteUrl": "/pokemon-champions/sprites/lycanroc-dusk-form.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0745_02_0.webp",
+			"pagePath": "/pokemon/lycanroc-dusk-form"
+		},
+		{
+			"slug": "sharpedo",
+			"name": "Sharpedo",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 30,
+			"spriteUrl": "/pokemon-champions/sprites/sharpedo.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0319_00_0.webp",
+			"pagePath": "/pokemon/sharpedo"
+		},
+		{
+			"slug": "slowking",
+			"name": "Slowking",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 30,
+			"spriteUrl": "/pokemon-champions/sprites/slowking.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0199_00_0.webp",
+			"pagePath": "/pokemon/slowking"
+		},
+		{
+			"slug": "altaria-mega-altaria",
+			"name": "Altaria [Mega Altaria]",
+			"types": [
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				},
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 29,
+			"spriteUrl": "/pokemon-champions/sprites/altaria-mega-altaria.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0334_01_0.webp",
+			"pagePath": "/pokemon/altaria-mega-altaria"
+		},
+		{
+			"slug": "mudsdale",
+			"name": "Mudsdale",
+			"types": [
+				{
+					"slug": "ground",
+					"name": "Ground"
+				}
+			],
+			"usageCount": 29,
+			"spriteUrl": "/pokemon-champions/sprites/mudsdale.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0750_00_0.webp",
+			"pagePath": "/pokemon/mudsdale"
+		},
+		{
+			"slug": "toxapex",
+			"name": "Toxapex",
+			"types": [
+				{
+					"slug": "poison",
+					"name": "Poison"
+				},
+				{
+					"slug": "water",
+					"name": "Water"
+				}
+			],
+			"usageCount": 29,
+			"spriteUrl": "/pokemon-champions/sprites/toxapex.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0748_00_0.webp",
+			"pagePath": "/pokemon/toxapex"
+		},
+		{
+			"slug": "toxicroak",
+			"name": "Toxicroak",
+			"types": [
+				{
+					"slug": "poison",
+					"name": "Poison"
+				},
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 29,
+			"spriteUrl": "/pokemon-champions/sprites/toxicroak.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0454_00_0.webp",
+			"pagePath": "/pokemon/toxicroak"
+		},
+		{
+			"slug": "heracross",
+			"name": "Heracross",
+			"types": [
+				{
+					"slug": "bug",
+					"name": "Bug"
+				},
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 28,
+			"spriteUrl": "/pokemon-champions/sprites/heracross.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0214_00_0.webp",
+			"pagePath": "/pokemon/heracross"
+		},
+		{
+			"slug": "noivern",
+			"name": "Noivern",
+			"types": [
+				{
+					"slug": "flying",
+					"name": "Flying"
+				},
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				}
+			],
+			"usageCount": 28,
+			"spriteUrl": "/pokemon-champions/sprites/noivern.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0715_00_0.webp",
+			"pagePath": "/pokemon/noivern"
+		},
+		{
+			"slug": "sharpedo-mega-sharpedo",
+			"name": "Sharpedo [Mega Sharpedo]",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				},
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 28,
+			"spriteUrl": "/pokemon-champions/sprites/sharpedo-mega-sharpedo.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0319_01_0.webp",
+			"pagePath": "/pokemon/sharpedo-mega-sharpedo"
+		},
+		{
+			"slug": "leafeon",
+			"name": "Leafeon",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				}
+			],
+			"usageCount": 27,
+			"spriteUrl": "/pokemon-champions/sprites/leafeon.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0470_00_0.webp",
+			"pagePath": "/pokemon/leafeon"
+		},
+		{
+			"slug": "slowbro-galarian-form",
+			"name": "Slowbro [Galarian Form]",
+			"types": [
+				{
+					"slug": "poison",
+					"name": "Poison"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 27,
+			"spriteUrl": "/pokemon-champions/sprites/slowbro-galarian-form.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0080_02_0.webp",
+			"pagePath": "/pokemon/slowbro-galarian-form"
+		},
+		{
+			"slug": "emboar",
+			"name": "Emboar",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 26,
+			"spriteUrl": "/pokemon-champions/sprites/emboar.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0500_00_0.webp",
+			"pagePath": "/pokemon/emboar"
+		},
+		{
+			"slug": "heracross-mega-heracross",
+			"name": "Heracross [Mega Heracross]",
+			"types": [
+				{
+					"slug": "bug",
+					"name": "Bug"
+				},
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 26,
+			"spriteUrl": "/pokemon-champions/sprites/heracross-mega-heracross.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0214_01_0.webp",
+			"pagePath": "/pokemon/heracross-mega-heracross"
+		},
+		{
+			"slug": "medicham",
+			"name": "Medicham",
+			"types": [
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 26,
+			"spriteUrl": "/pokemon-champions/sprites/medicham.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0308_00_0.webp",
+			"pagePath": "/pokemon/medicham"
+		},
+		{
+			"slug": "mr-rime",
+			"name": "Mr. Rime",
+			"types": [
+				{
+					"slug": "ice",
+					"name": "Ice"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 23,
+			"spriteUrl": "/pokemon-champions/sprites/mr-rime.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0866_00_0.webp",
+			"pagePath": "/pokemon/mr-rime"
+		},
+		{
+			"slug": "ninetales",
+			"name": "Ninetales",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 23,
+			"spriteUrl": "/pokemon-champions/sprites/ninetales.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0038_00_0.webp",
+			"pagePath": "/pokemon/ninetales"
+		},
+		{
+			"slug": "vaporeon",
+			"name": "Vaporeon",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				}
+			],
+			"usageCount": 23,
+			"spriteUrl": "/pokemon-champions/sprites/vaporeon.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0134_00_0.webp",
+			"pagePath": "/pokemon/vaporeon"
+		},
+		{
+			"slug": "alcremie",
+			"name": "Alcremie",
+			"types": [
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 22,
+			"spriteUrl": "/pokemon-champions/sprites/alcremie.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0869_00_0.webp",
+			"pagePath": "/pokemon/alcremie"
+		},
+		{
+			"slug": "spiritomb",
+			"name": "Spiritomb",
+			"types": [
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				},
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 22,
+			"spriteUrl": "/pokemon-champions/sprites/spiritomb.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0442_00_0.webp",
+			"pagePath": "/pokemon/spiritomb"
+		},
+		{
+			"slug": "torterra",
+			"name": "Torterra",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "ground",
+					"name": "Ground"
+				}
+			],
+			"usageCount": 21,
+			"spriteUrl": "/pokemon-champions/sprites/torterra.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0389_00_0.webp",
+			"pagePath": "/pokemon/torterra"
+		},
+		{
+			"slug": "tyrantrum",
+			"name": "Tyrantrum",
+			"types": [
+				{
+					"slug": "rock",
+					"name": "Rock"
+				},
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				}
+			],
+			"usageCount": 21,
+			"spriteUrl": "/pokemon-champions/sprites/tyrantrum.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0697_00_0.webp",
+			"pagePath": "/pokemon/tyrantrum"
+		},
+		{
+			"slug": "victreebel-mega-victreebel",
+			"name": "Victreebel [Mega Victreebel]",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "poison",
+					"name": "Poison"
+				}
+			],
+			"usageCount": 21,
+			"spriteUrl": "/pokemon-champions/sprites/victreebel-mega-victreebel.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0071_01_0.webp",
+			"pagePath": "/pokemon/victreebel-mega-victreebel"
+		},
+		{
+			"slug": "emboar-mega-emboar",
+			"name": "Emboar [Mega Emboar]",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 20,
+			"spriteUrl": "/pokemon-champions/sprites/emboar-mega-emboar.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0500_01_0.webp",
+			"pagePath": "/pokemon/emboar-mega-emboar"
+		},
+		{
+			"slug": "tauros-paldean-form-blaze-breed",
+			"name": "Tauros [Paldean Form (Blaze Breed)]",
+			"types": [
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				},
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 20,
+			"spriteUrl": "/pokemon-champions/sprites/tauros-paldean-form-blaze-breed.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0128_02_0.webp",
+			"pagePath": "/pokemon/tauros-paldean-form-blaze-breed"
+		},
+		{
+			"slug": "banette",
+			"name": "Banette",
+			"types": [
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 18,
+			"spriteUrl": "/pokemon-champions/sprites/banette.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0354_00_0.webp",
+			"pagePath": "/pokemon/banette"
+		},
+		{
+			"slug": "luxray",
+			"name": "Luxray",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				}
+			],
+			"usageCount": 18,
+			"spriteUrl": "/pokemon-champions/sprites/luxray.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0405_00_0.webp",
+			"pagePath": "/pokemon/luxray"
+		},
+		{
+			"slug": "steelix-mega-steelix",
+			"name": "Steelix [Mega Steelix]",
+			"types": [
+				{
+					"slug": "steel",
+					"name": "Steel"
+				},
+				{
+					"slug": "ground",
+					"name": "Ground"
+				}
+			],
+			"usageCount": 18,
+			"spriteUrl": "/pokemon-champions/sprites/steelix-mega-steelix.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0208_01_0.webp",
+			"pagePath": "/pokemon/steelix-mega-steelix"
+		},
+		{
+			"slug": "aurorus",
+			"name": "Aurorus",
+			"types": [
+				{
+					"slug": "rock",
+					"name": "Rock"
+				},
+				{
+					"slug": "ice",
+					"name": "Ice"
+				}
+			],
+			"usageCount": 17,
+			"spriteUrl": "/pokemon-champions/sprites/aurorus.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0699_00_0.webp",
+			"pagePath": "/pokemon/aurorus"
+		},
+		{
+			"slug": "banette-mega-banette",
+			"name": "Banette [Mega Banette]",
+			"types": [
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 17,
+			"spriteUrl": "/pokemon-champions/sprites/banette-mega-banette.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0354_01_0.webp",
+			"pagePath": "/pokemon/banette-mega-banette"
+		},
+		{
+			"slug": "beedrill",
+			"name": "Beedrill",
+			"types": [
+				{
+					"slug": "bug",
+					"name": "Bug"
+				},
+				{
+					"slug": "poison",
+					"name": "Poison"
+				}
+			],
+			"usageCount": 17,
+			"spriteUrl": "/pokemon-champions/sprites/beedrill.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0015_00_0.webp",
+			"pagePath": "/pokemon/beedrill"
+		},
+		{
+			"slug": "medicham-mega-medicham",
+			"name": "Medicham [Mega Medicham]",
+			"types": [
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 17,
+			"spriteUrl": "/pokemon-champions/sprites/medicham-mega-medicham.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0308_01_0.webp",
+			"pagePath": "/pokemon/medicham-mega-medicham"
+		},
+		{
+			"slug": "typhlosion",
+			"name": "Typhlosion",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 17,
+			"spriteUrl": "/pokemon-champions/sprites/typhlosion.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0157_00_0.webp",
+			"pagePath": "/pokemon/typhlosion"
+		},
+		{
+			"slug": "absol",
+			"name": "Absol",
+			"types": [
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 16,
+			"spriteUrl": "/pokemon-champions/sprites/absol.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0359_00_0.webp",
+			"pagePath": "/pokemon/absol"
+		},
+		{
+			"slug": "ariados",
+			"name": "Ariados",
+			"types": [
+				{
+					"slug": "bug",
+					"name": "Bug"
+				},
+				{
+					"slug": "poison",
+					"name": "Poison"
+				}
+			],
+			"usageCount": 16,
+			"spriteUrl": "/pokemon-champions/sprites/ariados.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0168_00_0.webp",
+			"pagePath": "/pokemon/ariados"
+		},
+		{
+			"slug": "beedrill-mega-beedrill",
+			"name": "Beedrill [Mega Beedrill]",
+			"types": [
+				{
+					"slug": "bug",
+					"name": "Bug"
+				},
+				{
+					"slug": "poison",
+					"name": "Poison"
+				}
+			],
+			"usageCount": 16,
+			"spriteUrl": "/pokemon-champions/sprites/beedrill-mega-beedrill.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0015_01_0.webp",
+			"pagePath": "/pokemon/beedrill-mega-beedrill"
+		},
+		{
+			"slug": "espeon",
+			"name": "Espeon",
+			"types": [
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 16,
+			"spriteUrl": "/pokemon-champions/sprites/espeon.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0196_00_0.webp",
+			"pagePath": "/pokemon/espeon"
+		},
+		{
+			"slug": "infernape",
+			"name": "Infernape",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				},
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 15,
+			"spriteUrl": "/pokemon-champions/sprites/infernape.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0392_00_0.webp",
+			"pagePath": "/pokemon/infernape"
+		},
+		{
+			"slug": "clawitzer",
+			"name": "Clawitzer",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				}
+			],
+			"usageCount": 14,
+			"spriteUrl": "/pokemon-champions/sprites/clawitzer.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0693_00_0.webp",
+			"pagePath": "/pokemon/clawitzer"
+		},
+		{
+			"slug": "goodra",
+			"name": "Goodra",
+			"types": [
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				}
+			],
+			"usageCount": 14,
+			"spriteUrl": "/pokemon-champions/sprites/goodra.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0706_00_0.webp",
+			"pagePath": "/pokemon/goodra"
+		},
+		{
+			"slug": "gourgeist",
+			"name": "Gourgeist",
+			"types": [
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				},
+				{
+					"slug": "grass",
+					"name": "Grass"
+				}
+			],
+			"usageCount": 14,
+			"spriteUrl": "/pokemon-champions/sprites/gourgeist.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0711_00_0.webp",
+			"pagePath": "/pokemon/gourgeist"
+		},
+		{
+			"slug": "hippowdon",
+			"name": "Hippowdon",
+			"types": [
+				{
+					"slug": "ground",
+					"name": "Ground"
+				}
+			],
+			"usageCount": 14,
+			"spriteUrl": "/pokemon-champions/sprites/hippowdon.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0450_00_0.webp",
+			"pagePath": "/pokemon/hippowdon"
+		},
+		{
+			"slug": "meowstic-female",
+			"name": "Meowstic [Female]",
+			"types": [
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 14,
+			"spriteUrl": "/pokemon-champions/sprites/meowstic-female.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0678_01_0.webp",
+			"pagePath": "/pokemon/meowstic-female"
+		},
+		{
+			"slug": "reuniclus",
+			"name": "Reuniclus",
+			"types": [
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 14,
+			"spriteUrl": "/pokemon-champions/sprites/reuniclus.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0579_00_0.webp",
+			"pagePath": "/pokemon/reuniclus"
+		},
+		{
+			"slug": "zoroark",
+			"name": "Zoroark",
+			"types": [
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 14,
+			"spriteUrl": "/pokemon-champions/sprites/zoroark.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0571_00_0.webp",
+			"pagePath": "/pokemon/zoroark"
+		},
+		{
+			"slug": "bastiodon",
+			"name": "Bastiodon",
+			"types": [
+				{
+					"slug": "rock",
+					"name": "Rock"
+				},
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 13,
+			"spriteUrl": "/pokemon-champions/sprites/bastiodon.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0411_00_0.webp",
+			"pagePath": "/pokemon/bastiodon"
+		},
+		{
+			"slug": "houndoom",
+			"name": "Houndoom",
+			"types": [
+				{
+					"slug": "dark",
+					"name": "Dark"
+				},
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 13,
+			"spriteUrl": "/pokemon-champions/sprites/houndoom.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0229_00_0.webp",
+			"pagePath": "/pokemon/houndoom"
+		},
+		{
+			"slug": "houndoom-mega-houndoom",
+			"name": "Houndoom [Mega Houndoom]",
+			"types": [
+				{
+					"slug": "dark",
+					"name": "Dark"
+				},
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 13,
+			"spriteUrl": "/pokemon-champions/sprites/houndoom-mega-houndoom.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0229_01_0.webp",
+			"pagePath": "/pokemon/houndoom-mega-houndoom"
+		},
+		{
+			"slug": "roserade",
+			"name": "Roserade",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "poison",
+					"name": "Poison"
+				}
+			],
+			"usageCount": 12,
+			"spriteUrl": "/pokemon-champions/sprites/roserade.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0407_00_0.webp",
+			"pagePath": "/pokemon/roserade"
+		},
+		{
+			"slug": "raichu-alolan-form",
+			"name": "Raichu [Alolan Form]",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 11,
+			"spriteUrl": "/pokemon-champions/sprites/raichu-alolan-form.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0026_01_0.webp",
+			"pagePath": "/pokemon/raichu-alolan-form"
+		},
+		{
+			"slug": "rotom",
+			"name": "Rotom",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 11,
+			"spriteUrl": "/pokemon-champions/sprites/rotom.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0479_00_0.webp",
+			"pagePath": "/pokemon/rotom"
+		},
+		{
+			"slug": "sableye-mega-sableye",
+			"name": "Sableye [Mega Sableye]",
+			"types": [
+				{
+					"slug": "dark",
+					"name": "Dark"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 11,
+			"spriteUrl": "/pokemon-champions/sprites/sableye-mega-sableye.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0302_01_0.webp",
+			"pagePath": "/pokemon/sableye-mega-sableye"
+		},
+		{
+			"slug": "wyrdeer",
+			"name": "Wyrdeer",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				},
+				{
+					"slug": "psychic",
+					"name": "Psychic"
+				}
+			],
+			"usageCount": 11,
+			"spriteUrl": "/pokemon-champions/sprites/wyrdeer.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0899_00_0.webp",
+			"pagePath": "/pokemon/wyrdeer"
+		},
+		{
+			"slug": "aromatisse",
+			"name": "Aromatisse",
+			"types": [
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 10,
+			"spriteUrl": "/pokemon-champions/sprites/aromatisse.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0683_00_0.webp",
+			"pagePath": "/pokemon/aromatisse"
+		},
+		{
+			"slug": "decidueye",
+			"name": "Decidueye",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 10,
+			"spriteUrl": "/pokemon-champions/sprites/decidueye.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0724_00_0.webp",
+			"pagePath": "/pokemon/decidueye"
+		},
+		{
+			"slug": "pinsir",
+			"name": "Pinsir",
+			"types": [
+				{
+					"slug": "bug",
+					"name": "Bug"
+				}
+			],
+			"usageCount": 10,
+			"spriteUrl": "/pokemon-champions/sprites/pinsir.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0127_00_0.webp",
+			"pagePath": "/pokemon/pinsir"
+		},
+		{
+			"slug": "pinsir-mega-pinsir",
+			"name": "Pinsir [Mega Pinsir]",
+			"types": [
+				{
+					"slug": "bug",
+					"name": "Bug"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 10,
+			"spriteUrl": "/pokemon-champions/sprites/pinsir-mega-pinsir.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0127_01_0.webp",
+			"pagePath": "/pokemon/pinsir-mega-pinsir"
+		},
+		{
+			"slug": "runerigus",
+			"name": "Runerigus",
+			"types": [
+				{
+					"slug": "ground",
+					"name": "Ground"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 10,
+			"spriteUrl": "/pokemon-champions/sprites/runerigus.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0867_00_0.webp",
+			"pagePath": "/pokemon/runerigus"
+		},
+		{
+			"slug": "salazzle",
+			"name": "Salazzle",
+			"types": [
+				{
+					"slug": "poison",
+					"name": "Poison"
+				},
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 10,
+			"spriteUrl": "/pokemon-champions/sprites/salazzle.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0758_00_0.webp",
+			"pagePath": "/pokemon/salazzle"
+		},
+		{
+			"slug": "sandaconda",
+			"name": "Sandaconda",
+			"types": [
+				{
+					"slug": "ground",
+					"name": "Ground"
+				}
+			],
+			"usageCount": 10,
+			"spriteUrl": "/pokemon-champions/sprites/sandaconda.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0844_00_0.webp",
+			"pagePath": "/pokemon/sandaconda"
+		},
+		{
+			"slug": "beartic",
+			"name": "Beartic",
+			"types": [
+				{
+					"slug": "ice",
+					"name": "Ice"
+				}
+			],
+			"usageCount": 9,
+			"spriteUrl": "/pokemon-champions/sprites/beartic.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0614_00_0.webp",
+			"pagePath": "/pokemon/beartic"
+		},
+		{
+			"slug": "toucannon",
+			"name": "Toucannon",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 9,
+			"spriteUrl": "/pokemon-champions/sprites/toucannon.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0733_00_0.webp",
+			"pagePath": "/pokemon/toucannon"
+		},
+		{
+			"slug": "absol-mega-absol",
+			"name": "Absol [Mega Absol]",
+			"types": [
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 8,
+			"spriteUrl": "/pokemon-champions/sprites/absol-mega-absol.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0359_01_0.webp",
+			"pagePath": "/pokemon/absol-mega-absol"
+		},
+		{
+			"slug": "aegislash-blade-forme",
+			"name": "Aegislash [Blade Forme]",
+			"types": [
+				{
+					"slug": "steel",
+					"name": "Steel"
+				},
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 8,
+			"spriteUrl": "/pokemon-champions/sprites/aegislash-blade-forme.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0681_01_0.webp",
+			"pagePath": "/pokemon/aegislash-blade-forme"
+		},
+		{
+			"slug": "audino",
+			"name": "Audino",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				}
+			],
+			"usageCount": 8,
+			"spriteUrl": "/pokemon-champions/sprites/audino.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0531_00_0.webp",
+			"pagePath": "/pokemon/audino"
+		},
+		{
+			"slug": "arbok",
+			"name": "Arbok",
+			"types": [
+				{
+					"slug": "poison",
+					"name": "Poison"
+				}
+			],
+			"usageCount": 7,
+			"spriteUrl": "/pokemon-champions/sprites/arbok.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0024_00_0.webp",
+			"pagePath": "/pokemon/arbok"
+		},
+		{
+			"slug": "glalie",
+			"name": "Glalie",
+			"types": [
+				{
+					"slug": "ice",
+					"name": "Ice"
+				}
+			],
+			"usageCount": 7,
+			"spriteUrl": "/pokemon-champions/sprites/glalie.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0362_00_0.webp",
+			"pagePath": "/pokemon/glalie"
+		},
+		{
+			"slug": "liepard",
+			"name": "Liepard",
+			"types": [
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 7,
+			"spriteUrl": "/pokemon-champions/sprites/liepard.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0510_00_0.webp",
+			"pagePath": "/pokemon/liepard"
+		},
+		{
+			"slug": "morpeko",
+			"name": "Morpeko",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				},
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 7,
+			"spriteUrl": "/pokemon-champions/sprites/morpeko.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0877_00_0.webp",
+			"pagePath": "/pokemon/morpeko"
+		},
+		{
+			"slug": "passimian",
+			"name": "Passimian",
+			"types": [
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				}
+			],
+			"usageCount": 7,
+			"spriteUrl": "/pokemon-champions/sprites/passimian.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0766_00_0.webp",
+			"pagePath": "/pokemon/passimian"
+		},
+		{
+			"slug": "diggersby",
+			"name": "Diggersby",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				},
+				{
+					"slug": "ground",
+					"name": "Ground"
+				}
+			],
+			"usageCount": 6,
+			"spriteUrl": "/pokemon-champions/sprites/diggersby.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0660_00_0.webp",
+			"pagePath": "/pokemon/diggersby"
+		},
+		{
+			"slug": "pangoro",
+			"name": "Pangoro",
+			"types": [
+				{
+					"slug": "fighting",
+					"name": "Fighting"
+				},
+				{
+					"slug": "dark",
+					"name": "Dark"
+				}
+			],
+			"usageCount": 6,
+			"spriteUrl": "/pokemon-champions/sprites/pangoro.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0675_00_0.webp",
+			"pagePath": "/pokemon/pangoro"
+		},
+		{
+			"slug": "pidgeot",
+			"name": "Pidgeot",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 6,
+			"spriteUrl": "/pokemon-champions/sprites/pidgeot.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0018_00_0.webp",
+			"pagePath": "/pokemon/pidgeot"
+		},
+		{
+			"slug": "pidgeot-mega-pidgeot",
+			"name": "Pidgeot [Mega Pidgeot]",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 6,
+			"spriteUrl": "/pokemon-champions/sprites/pidgeot-mega-pidgeot.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0018_01_0.webp",
+			"pagePath": "/pokemon/pidgeot-mega-pidgeot"
+		},
+		{
+			"slug": "simipour",
+			"name": "Simipour",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				}
+			],
+			"usageCount": 6,
+			"spriteUrl": "/pokemon-champions/sprites/simipour.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0516_00_0.webp",
+			"pagePath": "/pokemon/simipour"
+		},
+		{
+			"slug": "trevenant",
+			"name": "Trevenant",
+			"types": [
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				},
+				{
+					"slug": "grass",
+					"name": "Grass"
+				}
+			],
+			"usageCount": 6,
+			"spriteUrl": "/pokemon-champions/sprites/trevenant.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0709_00_0.webp",
+			"pagePath": "/pokemon/trevenant"
+		},
+		{
+			"slug": "appletun",
+			"name": "Appletun",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				}
+			],
+			"usageCount": 5,
+			"spriteUrl": "/pokemon-champions/sprites/appletun.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0842_00_0.webp",
+			"pagePath": "/pokemon/appletun"
+		},
+		{
+			"slug": "audino-mega-audino",
+			"name": "Audino [Mega Audino]",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				},
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 5,
+			"spriteUrl": "/pokemon-champions/sprites/audino-mega-audino.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0531_01_0.webp",
+			"pagePath": "/pokemon/audino-mega-audino"
+		},
+		{
+			"slug": "castform",
+			"name": "Castform",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				}
+			],
+			"usageCount": 5,
+			"spriteUrl": "/pokemon-champions/sprites/castform.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0351_00_0.webp",
+			"pagePath": "/pokemon/castform"
+		},
+		{
+			"slug": "garbodor",
+			"name": "Garbodor",
+			"types": [
+				{
+					"slug": "poison",
+					"name": "Poison"
+				}
+			],
+			"usageCount": 5,
+			"spriteUrl": "/pokemon-champions/sprites/garbodor.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0569_00_0.webp",
+			"pagePath": "/pokemon/garbodor"
+		},
+		{
+			"slug": "rampardos",
+			"name": "Rampardos",
+			"types": [
+				{
+					"slug": "rock",
+					"name": "Rock"
+				}
+			],
+			"usageCount": 5,
+			"spriteUrl": "/pokemon-champions/sprites/rampardos.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0409_00_0.webp",
+			"pagePath": "/pokemon/rampardos"
+		},
+		{
+			"slug": "tauros",
+			"name": "Tauros",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				}
+			],
+			"usageCount": 5,
+			"spriteUrl": "/pokemon-champions/sprites/tauros.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0128_00_0.webp",
+			"pagePath": "/pokemon/tauros"
+		},
+		{
+			"slug": "flapple",
+			"name": "Flapple",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				},
+				{
+					"slug": "dragon",
+					"name": "Dragon"
+				}
+			],
+			"usageCount": 4,
+			"spriteUrl": "/pokemon-champions/sprites/flapple.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0841_00_0.webp",
+			"pagePath": "/pokemon/flapple"
+		},
+		{
+			"slug": "simisear",
+			"name": "Simisear",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 4,
+			"spriteUrl": "/pokemon-champions/sprites/simisear.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0514_00_0.webp",
+			"pagePath": "/pokemon/simisear"
+		},
+		{
+			"slug": "avalugg",
+			"name": "Avalugg",
+			"types": [
+				{
+					"slug": "ice",
+					"name": "Ice"
+				}
+			],
+			"usageCount": 3,
+			"spriteUrl": "/pokemon-champions/sprites/avalugg.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0713_00_0.webp",
+			"pagePath": "/pokemon/avalugg"
+		},
+		{
+			"slug": "avalugg-hisuian-form",
+			"name": "Avalugg [Hisuian Form]",
+			"types": [
+				{
+					"slug": "ice",
+					"name": "Ice"
+				},
+				{
+					"slug": "rock",
+					"name": "Rock"
+				}
+			],
+			"usageCount": 3,
+			"spriteUrl": "/pokemon-champions/sprites/avalugg-hisuian-form.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0713_01_0.webp",
+			"pagePath": "/pokemon/avalugg-hisuian-form"
+		},
+		{
+			"slug": "emolga",
+			"name": "Emolga",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 3,
+			"spriteUrl": "/pokemon-champions/sprites/emolga.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0587_00_0.webp",
+			"pagePath": "/pokemon/emolga"
+		},
+		{
+			"slug": "florges",
+			"name": "Florges",
+			"types": [
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 3,
+			"spriteUrl": "/pokemon-champions/sprites/florges.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0671_00_0.webp",
+			"pagePath": "/pokemon/florges"
+		},
+		{
+			"slug": "glalie-mega-glalie",
+			"name": "Glalie [Mega Glalie]",
+			"types": [
+				{
+					"slug": "ice",
+					"name": "Ice"
+				}
+			],
+			"usageCount": 3,
+			"spriteUrl": "/pokemon-champions/sprites/glalie-mega-glalie.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0362_01_0.webp",
+			"pagePath": "/pokemon/glalie-mega-glalie"
+		},
+		{
+			"slug": "polteageist",
+			"name": "Polteageist",
+			"types": [
+				{
+					"slug": "ghost",
+					"name": "Ghost"
+				}
+			],
+			"usageCount": 3,
+			"spriteUrl": "/pokemon-champions/sprites/polteageist.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0855_00_0.webp",
+			"pagePath": "/pokemon/polteageist"
+		},
+		{
+			"slug": "rotom-fan-rotom",
+			"name": "Rotom [Fan Rotom]",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				},
+				{
+					"slug": "flying",
+					"name": "Flying"
+				}
+			],
+			"usageCount": 3,
+			"spriteUrl": "/pokemon-champions/sprites/rotom-fan-rotom.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0479_04_0.webp",
+			"pagePath": "/pokemon/rotom-fan-rotom"
+		},
+		{
+			"slug": "simisage",
+			"name": "Simisage",
+			"types": [
+				{
+					"slug": "grass",
+					"name": "Grass"
+				}
+			],
+			"usageCount": 3,
+			"spriteUrl": "/pokemon-champions/sprites/simisage.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0512_00_0.webp",
+			"pagePath": "/pokemon/simisage"
+		},
+		{
+			"slug": "stunfisk",
+			"name": "Stunfisk",
+			"types": [
+				{
+					"slug": "ground",
+					"name": "Ground"
+				},
+				{
+					"slug": "electric",
+					"name": "Electric"
+				}
+			],
+			"usageCount": 3,
+			"spriteUrl": "/pokemon-champions/sprites/stunfisk.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0618_00_0.webp",
+			"pagePath": "/pokemon/stunfisk"
+		},
+		{
+			"slug": "dedenne",
+			"name": "Dedenne",
+			"types": [
+				{
+					"slug": "electric",
+					"name": "Electric"
+				},
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 2,
+			"spriteUrl": "/pokemon-champions/sprites/dedenne.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0702_00_0.webp",
+			"pagePath": "/pokemon/dedenne"
+		},
+		{
+			"slug": "flareon",
+			"name": "Flareon",
+			"types": [
+				{
+					"slug": "fire",
+					"name": "Fire"
+				}
+			],
+			"usageCount": 2,
+			"spriteUrl": "/pokemon-champions/sprites/flareon.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0136_00_0.webp",
+			"pagePath": "/pokemon/flareon"
+		},
+		{
+			"slug": "slurpuff",
+			"name": "Slurpuff",
+			"types": [
+				{
+					"slug": "fairy",
+					"name": "Fairy"
+				}
+			],
+			"usageCount": 2,
+			"spriteUrl": "/pokemon-champions/sprites/slurpuff.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0685_00_0.webp",
+			"pagePath": "/pokemon/slurpuff"
+		},
+		{
+			"slug": "forretress",
+			"name": "Forretress",
+			"types": [
+				{
+					"slug": "bug",
+					"name": "Bug"
+				},
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 1,
+			"spriteUrl": "/pokemon-champions/sprites/forretress.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0205_00_0.webp",
+			"pagePath": "/pokemon/forretress"
+		},
+		{
+			"slug": "furfrou",
+			"name": "Furfrou",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				}
+			],
+			"usageCount": 1,
+			"spriteUrl": "/pokemon-champions/sprites/furfrou.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0676_00_0.webp",
+			"pagePath": "/pokemon/furfrou"
+		},
+		{
+			"slug": "samurott",
+			"name": "Samurott",
+			"types": [
+				{
+					"slug": "water",
+					"name": "Water"
+				}
+			],
+			"usageCount": 1,
+			"spriteUrl": "/pokemon-champions/sprites/samurott.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0503_00_0.webp",
+			"pagePath": "/pokemon/samurott"
+		},
+		{
+			"slug": "stunfisk-galarian-form",
+			"name": "Stunfisk [Galarian Form]",
+			"types": [
+				{
+					"slug": "ground",
+					"name": "Ground"
+				},
+				{
+					"slug": "steel",
+					"name": "Steel"
+				}
+			],
+			"usageCount": 1,
+			"spriteUrl": "/pokemon-champions/sprites/stunfisk-galarian-form.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0618_01_0.webp",
+			"pagePath": "/pokemon/stunfisk-galarian-form"
+		},
+		{
+			"slug": "watchog",
+			"name": "Watchog",
+			"types": [
+				{
+					"slug": "normal",
+					"name": "Normal"
+				}
+			],
+			"usageCount": 1,
+			"spriteUrl": "/pokemon-champions/sprites/watchog.webp",
+			"remoteIconUrl": "https://assets.pokemon-zone.com/champions-assets/uicontents/scriptableobject/mdicon02/mdiconpersonal02/standard02/ui_PokeIcon_02_0505_00_0.webp",
+			"pagePath": "/pokemon/watchog"
+		}
+	]
+}

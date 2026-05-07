@@ -1,0 +1,30 @@
+{
+  "id": "69d556980e548b5c2fbe5d30",
+  "game": "VGC",
+  "format": "M-A",
+  "name": "Extreme Speed Pokémon Champions",
+  "date": "2026-04-13T01:00:00.000Z",
+  "players": 107,
+  "organizer": {
+    "id": 848,
+    "name": "Ewokpadawan "
+  },
+  "platform": "SWITCH",
+  "decklists": true,
+  "isPublic": true,
+  "isOnline": true,
+  "phases": [
+    {
+      "phase": 1,
+      "type": "SWISS",
+      "rounds": 6,
+      "mode": "BO3"
+    },
+    {
+      "phase": 2,
+      "type": "SINGLE_BRACKET",
+      "rounds": 1,
+      "mode": "BO3"
+    }
+  ]
+}

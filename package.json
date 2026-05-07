@@ -16,16 +16,33 @@
 		"publish": true
 	},
 	"devDependencies": {
+		"pg": "^8.16.3",
 		"typescript": "5.9.3",
-		"wrangler": "4.56.0"
+		"wrangler": "^4.88.0"
 	},
 	"private": true,
 	"scripts": {
 		"cf-typegen": "wrangler types",
 		"check": "tsc && wrangler deploy --dry-run",
 		"deploy": "wrangler deploy",
+		"import:tournaments": "node scripts/import-tournaments.mjs",
+		"import:tournaments:remote": "node scripts/import-tournaments.mjs --remote",
+		"import:pokemon": "node scripts/import-pokemon.mjs",
+		"import:pokemon:remote": "node scripts/import-pokemon.mjs --remote",
 		"dev": "pnpm seedLocalD1 && wrangler dev",
 		"predeploy": "wrangler d1 migrations apply DB --remote",
-		"seedLocalD1": "wrangler d1 migrations apply DB --local"
+		"seedLocalD1": "wrangler d1 migrations apply DB --local",
+		"redis:to-sql:d1": "node scripts/redis-to-sql.mjs --target d1",
+		"redis:to-sql:d1:dump": "node scripts/redis-to-sql.mjs --target d1 --dump-only --sql-out-prefix ./data/redis-export",
+		"redis:to-sql:d1:remote": "node scripts/redis-to-sql.mjs --target d1 --d1-remote",
+		"redis:to-sql:postgres": "node scripts/redis-to-sql.mjs --target postgres",
+		"redis:to-sql:both": "node scripts/redis-to-sql.mjs --target both",
+		"migrate:redis-pg:build": "pnpm run binario",
+
+		"binario": "cd migrate && go mod tidy && go build -ldflags '-s -w' -o redis-pg-migrate ./cmd/redis-pg-migrate",
+		"binario:nas-amd64": "cd migrate && go mod tidy && GOOS=linux GOARCH=amd64 CGO_ENABLED=0 go build -ldflags '-s -w' -o redis-pg-migrate-linux-amd64 ./cmd/redis-pg-migrate",
+		"binario:nas-arm64": "cd migrate && go mod tidy && GOOS=linux GOARCH=arm64 CGO_ENABLED=0 go build -ldflags '-s -w' -o redis-pg-migrate-linux-arm64 ./cmd/redis-pg-migrate",
+
+		"migrate:export:d1": "cd migrate && go run ./cmd/d1-export"
 	}
 }
